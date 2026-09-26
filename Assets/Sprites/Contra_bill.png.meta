@@ -1128,7 +1128,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1196,7 +1196,7 @@ TextureImporter:
         x: 27
         y: 907
         width: 21
-        height: 37
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1218,7 +1218,7 @@ TextureImporter:
         x: 92
         y: 908
         width: 22
-        height: 33
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1240,7 +1240,7 @@ TextureImporter:
         x: 159
         y: 907
         width: 18
-        height: 36
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1262,7 +1262,7 @@ TextureImporter:
         x: 222
         y: 907
         width: 20
-        height: 36
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1284,7 +1284,7 @@ TextureImporter:
         x: 287
         y: 908
         width: 22
-        height: 33
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1306,7 +1306,7 @@ TextureImporter:
         x: 355
         y: 907
         width: 18
-        height: 37
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1328,7 +1328,7 @@ TextureImporter:
         x: 417
         y: 907
         width: 27
-        height: 36
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1350,7 +1350,7 @@ TextureImporter:
         x: 482
         y: 908
         width: 27
-        height: 34
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1372,7 +1372,7 @@ TextureImporter:
         x: 549
         y: 907
         width: 25
-        height: 36
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1394,7 +1394,7 @@ TextureImporter:
         x: 612
         y: 907
         width: 27
-        height: 35
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1416,7 +1416,7 @@ TextureImporter:
         x: 677
         y: 908
         width: 27
-        height: 33
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1438,7 +1438,7 @@ TextureImporter:
         x: 744
         y: 907
         width: 25
-        height: 35
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1460,7 +1460,7 @@ TextureImporter:
         x: 810
         y: 907
         width: 16
-        height: 47
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1482,7 +1482,7 @@ TextureImporter:
         x: 875
         y: 907
         width: 16
-        height: 46
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2976,7 +2976,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 744
-        y: 639
+        y: 613
         width: 25
         height: 35
       alignment: 0
@@ -8907,6 +8907,72 @@ TextureImporter:
       bones: []
       spriteID: 85d391762b9b6d9e0800000000000000
       internalID: -1596884841971237544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1042
+        height: 936
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe1cefa573857045b355f07bb3e4e61
+      internalID: 674658452762773449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1042
+        height: 936
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec944cfc6c763459b9a328174af4f8
+      internalID: 6109472005772198556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Contra_bill_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1042
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877a4a3d021dbb547b7e5932aec794e8
+      internalID: 8345841405360240925
       vertices: []
       indices: 
       edges: []
