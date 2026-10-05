@@ -1071,7 +1071,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -1137,11 +1137,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 391
+        y: 324
         width: 26
-        height: 33
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1159,11 +1159,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 50
-        y: 391
+        y: 324
         width: 21
-        height: 41
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1181,11 +1181,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 70
-        y: 391
+        y: 324
         width: 21
-        height: 40
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1203,11 +1203,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 90
-        y: 391
+        y: 324
         width: 26
-        height: 34
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1225,11 +1225,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 115
-        y: 391
+        y: 324
         width: 26
-        height: 33
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1247,11 +1247,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 140
-        y: 391
+        y: 324
         width: 18
-        height: 34
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1269,11 +1269,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 157
-        y: 391
+        y: 324
         width: 18
-        height: 34
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1291,11 +1291,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 174
-        y: 391
+        y: 324
         width: 18
-        height: 33
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1313,11 +1313,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 191
-        y: 391
+        y: 324
         width: 18
-        height: 34
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1335,11 +1335,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 208
-        y: 391
+        y: 324
         width: 18
-        height: 34
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1357,11 +1357,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 225
-        y: 391
+        y: 324
         width: 18
-        height: 33
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1379,11 +1379,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 243
-        y: 391
+        y: 324
         width: 17
-        height: 34
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1401,11 +1401,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 259
-        y: 391
+        y: 324
         width: 27
-        height: 34
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1423,11 +1423,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 285
-        y: 391
+        y: 324
         width: 33
-        height: 33
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1445,11 +1445,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 320
-        y: 408
-        width: 16
-        height: 18
+        y: 324
+        width: 13
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1466,12 +1466,12 @@ TextureImporter:
       name: Contra_enemies_15
       rect:
         serializedVersion: 2
-        x: 377
-        y: 395
-        width: 18
-        height: 30
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1488,12 +1488,12 @@ TextureImporter:
       name: Contra_enemies_16
       rect:
         serializedVersion: 2
-        x: 394
-        y: 395
-        width: 18
-        height: 30
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1510,12 +1510,12 @@ TextureImporter:
       name: Contra_enemies_17
       rect:
         serializedVersion: 2
-        x: 478
-        y: 391
-        width: 20
-        height: 34
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1532,12 +1532,12 @@ TextureImporter:
       name: Contra_enemies_18
       rect:
         serializedVersion: 2
-        x: 503
-        y: 391
-        width: 20
-        height: 33
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1554,12 +1554,12 @@ TextureImporter:
       name: Contra_enemies_19
       rect:
         serializedVersion: 2
-        x: 528
-        y: 391
-        width: 18
-        height: 34
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1576,12 +1576,12 @@ TextureImporter:
       name: Contra_enemies_20
       rect:
         serializedVersion: 2
-        x: 545
-        y: 390
-        width: 18
-        height: 34
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1598,12 +1598,12 @@ TextureImporter:
       name: Contra_enemies_21
       rect:
         serializedVersion: 2
-        x: 562
-        y: 391
-        width: 19
-        height: 39
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1620,12 +1620,12 @@ TextureImporter:
       name: Contra_enemies_22
       rect:
         serializedVersion: 2
-        x: 580
-        y: 391
-        width: 19
-        height: 38
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1642,12 +1642,12 @@ TextureImporter:
       name: Contra_enemies_23
       rect:
         serializedVersion: 2
-        x: 598
-        y: 391
-        width: 24
-        height: 34
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1664,12 +1664,12 @@ TextureImporter:
       name: Contra_enemies_24
       rect:
         serializedVersion: 2
-        x: 623
-        y: 391
-        width: 24
-        height: 33
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1686,12 +1686,12 @@ TextureImporter:
       name: Contra_enemies_25
       rect:
         serializedVersion: 2
-        x: 657
-        y: 391
-        width: 18
-        height: 33
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1708,12 +1708,12 @@ TextureImporter:
       name: Contra_enemies_26
       rect:
         serializedVersion: 2
-        x: 674
-        y: 391
-        width: 18
-        height: 34
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1730,12 +1730,12 @@ TextureImporter:
       name: Contra_enemies_27
       rect:
         serializedVersion: 2
-        x: 693
-        y: 391
-        width: 19
-        height: 33
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1752,12 +1752,12 @@ TextureImporter:
       name: Contra_enemies_28
       rect:
         serializedVersion: 2
-        x: 711
-        y: 391
-        width: 21
-        height: 33
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1774,12 +1774,12 @@ TextureImporter:
       name: Contra_enemies_29
       rect:
         serializedVersion: 2
-        x: 816
-        y: 391
-        width: 18
-        height: 34
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1796,12 +1796,12 @@ TextureImporter:
       name: Contra_enemies_30
       rect:
         serializedVersion: 2
-        x: 839
-        y: 391
-        width: 12
-        height: 34
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1818,12 +1818,12 @@ TextureImporter:
       name: Contra_enemies_31
       rect:
         serializedVersion: 2
-        x: 868
-        y: 391
-        width: 18
-        height: 34
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1840,12 +1840,12 @@ TextureImporter:
       name: Contra_enemies_32
       rect:
         serializedVersion: 2
-        x: 874
-        y: 424
-        width: 9
-        height: 9
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1862,12 +1862,12 @@ TextureImporter:
       name: Contra_enemies_33
       rect:
         serializedVersion: 2
-        x: 883
-        y: 424
-        width: 7
-        height: 9
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1884,12 +1884,12 @@ TextureImporter:
       name: Contra_enemies_34
       rect:
         serializedVersion: 2
-        x: 890
-        y: 424
-        width: 9
-        height: 9
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1907,11 +1907,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 25
-        y: 390
+        y: 324
         width: 26
-        height: 33
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1929,11 +1929,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 311
-        y: 391
-        width: 34
-        height: 16
+        y: 324
+        width: 22
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1950,12 +1950,12 @@ TextureImporter:
       name: Contra_enemies_37
       rect:
         serializedVersion: 2
-        x: 344
-        y: 390
-        width: 34
-        height: 16
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1972,12 +1972,12 @@ TextureImporter:
       name: Contra_enemies_38
       rect:
         serializedVersion: 2
-        x: 428
-        y: 391
-        width: 25
-        height: 14
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1994,12 +1994,12 @@ TextureImporter:
       name: Contra_enemies_39
       rect:
         serializedVersion: 2
-        x: 453
-        y: 391
-        width: 26
-        height: 18
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2016,12 +2016,12 @@ TextureImporter:
       name: Contra_enemies_40
       rect:
         serializedVersion: 2
-        x: 648
-        y: 405
-        width: 10
-        height: 18
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2038,12 +2038,12 @@ TextureImporter:
       name: Contra_enemies_41
       rect:
         serializedVersion: 2
-        x: 733
-        y: 391
-        width: 22
-        height: 18
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2060,12 +2060,12 @@ TextureImporter:
       name: Contra_enemies_42
       rect:
         serializedVersion: 2
-        x: 773
-        y: 391
-        width: 16
-        height: 14
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2082,12 +2082,12 @@ TextureImporter:
       name: Contra_enemies_43
       rect:
         serializedVersion: 2
-        x: 791
-        y: 391
-        width: 23
-        height: 18
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2104,12 +2104,12 @@ TextureImporter:
       name: Contra_enemies_44
       rect:
         serializedVersion: 2
-        x: 891
-        y: 392
-        width: 17
-        height: 27
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2126,12 +2126,12 @@ TextureImporter:
       name: Contra_enemies_45
       rect:
         serializedVersion: 2
-        x: 419
-        y: 391
-        width: 10
-        height: 9
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2148,12 +2148,12 @@ TextureImporter:
       name: Contra_enemies_46
       rect:
         serializedVersion: 2
-        x: 451
-        y: 386
-        width: 12
-        height: 6
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2170,12 +2170,12 @@ TextureImporter:
       name: Contra_enemies_47
       rect:
         serializedVersion: 2
-        x: 471
-        y: 374
-        width: 32
-        height: 18
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2192,12 +2192,12 @@ TextureImporter:
       name: Contra_enemies_48
       rect:
         serializedVersion: 2
-        x: 510
-        y: 383
-        width: 10
-        height: 9
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2214,12 +2214,12 @@ TextureImporter:
       name: Contra_enemies_49
       rect:
         serializedVersion: 2
-        x: 519
-        y: 383
-        width: 10
-        height: 9
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2236,12 +2236,12 @@ TextureImporter:
       name: Contra_enemies_50
       rect:
         serializedVersion: 2
-        x: 757
-        y: 391
-        width: 15
-        height: 10
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2258,12 +2258,12 @@ TextureImporter:
       name: Contra_enemies_51
       rect:
         serializedVersion: 2
-        x: 889
-        y: 383
-        width: 10
-        height: 9
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2280,12 +2280,12 @@ TextureImporter:
       name: Contra_enemies_52
       rect:
         serializedVersion: 2
-        x: 898
-        y: 383
-        width: 10
-        height: 9
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2303,11 +2303,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 355
+        y: 324
         width: 36
-        height: 25
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2325,11 +2325,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 18
-        y: 360
+        y: 324
         width: 18
-        height: 23
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2347,11 +2347,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 35
-        y: 356
+        y: 324
         width: 17
-        height: 26
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2369,11 +2369,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 55
-        y: 356
+        y: 324
         width: 17
-        height: 26
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2391,11 +2391,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 71
-        y: 363
+        y: 324
         width: 26
-        height: 16
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2413,11 +2413,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 113
-        y: 355
+        y: 324
         width: 36
-        height: 25
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2435,11 +2435,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 131
-        y: 360
+        y: 324
         width: 18
-        height: 23
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2457,11 +2457,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 148
-        y: 356
+        y: 324
         width: 17
-        height: 26
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2479,11 +2479,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 168
-        y: 356
+        y: 324
         width: 17
-        height: 26
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2501,11 +2501,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 184
-        y: 363
+        y: 324
         width: 26
-        height: 16
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2523,11 +2523,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 226
-        y: 378
+        y: 324
         width: 10
-        height: 10
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2545,11 +2545,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 236
-        y: 379
+        y: 324
         width: 8
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2567,11 +2567,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 245
-        y: 379
+        y: 324
         width: 8
-        height: 8
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2589,11 +2589,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 253
-        y: 378
+        y: 324
         width: 10
-        height: 11
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2611,11 +2611,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 262
-        y: 379
+        y: 324
         width: 9
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2633,11 +2633,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 272
-        y: 379
+        y: 324
         width: 8
-        height: 8
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2655,11 +2655,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 280
-        y: 379
+        y: 324
         width: 9
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2677,11 +2677,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 289
-        y: 355
+        y: 324
         width: 18
-        height: 24
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2699,11 +2699,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 306
-        y: 372
+        y: 324
         width: 10
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2721,11 +2721,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 315
-        y: 356
+        y: 324
         width: 18
-        height: 25
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2743,11 +2743,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 332
-        y: 371
-        width: 10
-        height: 12
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2764,12 +2764,12 @@ TextureImporter:
       name: Contra_enemies_74
       rect:
         serializedVersion: 2
-        x: 341
-        y: 356
-        width: 17
-        height: 24
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2786,12 +2786,12 @@ TextureImporter:
       name: Contra_enemies_75
       rect:
         serializedVersion: 2
-        x: 358
-        y: 371
-        width: 6
-        height: 11
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2808,12 +2808,12 @@ TextureImporter:
       name: Contra_enemies_76
       rect:
         serializedVersion: 2
-        x: 392
-        y: 371
-        width: 10
-        height: 8
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2830,12 +2830,12 @@ TextureImporter:
       name: Contra_enemies_77
       rect:
         serializedVersion: 2
-        x: 417
-        y: 371
-        width: 9
-        height: 9
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2852,12 +2852,12 @@ TextureImporter:
       name: Contra_enemies_78
       rect:
         serializedVersion: 2
-        x: 426
-        y: 356
-        width: 14
-        height: 24
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2875,11 +2875,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 96
-        y: 355
+        y: 324
         width: 13
-        height: 21
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2897,11 +2897,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 209
-        y: 355
+        y: 324
         width: 13
-        height: 21
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2919,11 +2919,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 228
-        y: 359
+        y: 324
         width: 14
-        height: 14
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2941,11 +2941,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 243
-        y: 361
+        y: 324
         width: 10
-        height: 11
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2963,11 +2963,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 252
-        y: 361
+        y: 324
         width: 10
-        height: 10
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2985,11 +2985,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 261
-        y: 360
+        y: 324
         width: 10
-        height: 11
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3006,12 +3006,12 @@ TextureImporter:
       name: Contra_enemies_85
       rect:
         serializedVersion: 2
-        x: 367
-        y: 363
-        width: 26
-        height: 14
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3028,12 +3028,12 @@ TextureImporter:
       name: Contra_enemies_86
       rect:
         serializedVersion: 2
-        x: 401
-        y: 355
-        width: 13
-        height: 18
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3050,12 +3050,12 @@ TextureImporter:
       name: Contra_enemies_87
       rect:
         serializedVersion: 2
-        x: 448
-        y: 366
-        width: 18
-        height: 9
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3072,12 +3072,12 @@ TextureImporter:
       name: Contra_enemies_88
       rect:
         serializedVersion: 2
-        x: 489
-        y: 352
-        width: 32
-        height: 23
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3094,12 +3094,12 @@ TextureImporter:
       name: Contra_enemies_89
       rect:
         serializedVersion: 2
-        x: 528
-        y: 348
-        width: 14
-        height: 26
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3116,12 +3116,12 @@ TextureImporter:
       name: Contra_enemies_90
       rect:
         serializedVersion: 2
-        x: 545
-        y: 348
-        width: 15
-        height: 27
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3138,12 +3138,12 @@ TextureImporter:
       name: Contra_enemies_91
       rect:
         serializedVersion: 2
-        x: 562
-        y: 348
-        width: 15
-        height: 26
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3160,12 +3160,12 @@ TextureImporter:
       name: Contra_enemies_92
       rect:
         serializedVersion: 2
-        x: 581
-        y: 348
-        width: 12
-        height: 26
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3182,12 +3182,12 @@ TextureImporter:
       name: Contra_enemies_93
       rect:
         serializedVersion: 2
-        x: 595
-        y: 348
-        width: 17
-        height: 20
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3204,12 +3204,12 @@ TextureImporter:
       name: Contra_enemies_94
       rect:
         serializedVersion: 2
-        x: 611
-        y: 348
-        width: 14
-        height: 29
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3226,12 +3226,12 @@ TextureImporter:
       name: Contra_enemies_95
       rect:
         serializedVersion: 2
-        x: 628
-        y: 348
-        width: 14
-        height: 26
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3248,12 +3248,12 @@ TextureImporter:
       name: Contra_enemies_96
       rect:
         serializedVersion: 2
-        x: 645
-        y: 348
-        width: 15
-        height: 27
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3270,12 +3270,12 @@ TextureImporter:
       name: Contra_enemies_97
       rect:
         serializedVersion: 2
-        x: 662
-        y: 348
-        width: 15
-        height: 26
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3292,12 +3292,12 @@ TextureImporter:
       name: Contra_enemies_98
       rect:
         serializedVersion: 2
-        x: 681
-        y: 348
-        width: 12
-        height: 26
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3314,12 +3314,12 @@ TextureImporter:
       name: Contra_enemies_99
       rect:
         serializedVersion: 2
-        x: 695
-        y: 348
-        width: 17
-        height: 20
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3336,12 +3336,12 @@ TextureImporter:
       name: Contra_enemies_100
       rect:
         serializedVersion: 2
-        x: 711
-        y: 348
-        width: 14
-        height: 29
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3358,12 +3358,12 @@ TextureImporter:
       name: Contra_enemies_101
       rect:
         serializedVersion: 2
-        x: 868
-        y: 352
-        width: 32
-        height: 23
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3381,11 +3381,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 347
+        y: 324
         width: 9
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3403,11 +3403,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 339
+        y: 324
         width: 9
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3425,11 +3425,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 8
-        y: 347
+        y: 324
         width: 9
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3447,11 +3447,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 8
-        y: 339
+        y: 324
         width: 9
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3469,11 +3469,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 347
+        y: 324
         width: 9
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3491,11 +3491,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 16
-        y: 339
+        y: 324
         width: 9
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3513,11 +3513,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 24
-        y: 347
+        y: 324
         width: 9
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3535,11 +3535,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 24
-        y: 339
+        y: 324
         width: 9
-        height: 9
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3557,11 +3557,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 255
-        y: 340
+        y: 324
         width: 18
-        height: 18
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3579,11 +3579,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 272
-        y: 340
+        y: 324
         width: 18
-        height: 18
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3600,12 +3600,12 @@ TextureImporter:
       name: Contra_enemies_112
       rect:
         serializedVersion: 2
-        x: 445
-        y: 348
-        width: 24
-        height: 10
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3625,9 +3625,9 @@ TextureImporter:
         x: 0
         y: 306
         width: 25
-        height: 31
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3647,9 +3647,9 @@ TextureImporter:
         x: 25
         y: 305
         width: 25
-        height: 31
+        height: 20
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3669,9 +3669,9 @@ TextureImporter:
         x: 50
         y: 306
         width: 21
-        height: 40
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3691,9 +3691,9 @@ TextureImporter:
         x: 70
         y: 306
         width: 21
-        height: 39
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3713,9 +3713,9 @@ TextureImporter:
         x: 90
         y: 306
         width: 26
-        height: 34
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3735,9 +3735,9 @@ TextureImporter:
         x: 115
         y: 306
         width: 26
-        height: 33
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3757,9 +3757,9 @@ TextureImporter:
         x: 140
         y: 306
         width: 18
-        height: 34
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3779,9 +3779,9 @@ TextureImporter:
         x: 174
         y: 306
         width: 18
-        height: 33
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3801,9 +3801,9 @@ TextureImporter:
         x: 191
         y: 308
         width: 26
-        height: 29
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3823,9 +3823,9 @@ TextureImporter:
         x: 233
         y: 307
         width: 34
-        height: 33
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3845,9 +3845,9 @@ TextureImporter:
         x: 293
         y: 323
         width: 26
-        height: 18
+        height: 2
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3866,10 +3866,10 @@ TextureImporter:
         serializedVersion: 2
         x: 318
         y: 323
-        width: 26
-        height: 18
+        width: 15
+        height: 2
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3886,12 +3886,12 @@ TextureImporter:
       name: Contra_enemies_125
       rect:
         serializedVersion: 2
-        x: 343
+        x: 332
         y: 323
-        width: 26
-        height: 18
+        width: 1
+        height: 2
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3908,12 +3908,12 @@ TextureImporter:
       name: Contra_enemies_126
       rect:
         serializedVersion: 2
-        x: 368
+        x: 332
         y: 306
-        width: 34
-        height: 34
+        width: 1
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3930,12 +3930,12 @@ TextureImporter:
       name: Contra_enemies_127
       rect:
         serializedVersion: 2
-        x: 401
+        x: 332
         y: 306
-        width: 33
-        height: 34
+        width: 1
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3952,12 +3952,12 @@ TextureImporter:
       name: Contra_enemies_128
       rect:
         serializedVersion: 2
-        x: 444
-        y: 328
-        width: 26
-        height: 13
+        x: 332
+        y: 324
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3974,12 +3974,12 @@ TextureImporter:
       name: Contra_enemies_129
       rect:
         serializedVersion: 2
-        x: 489
+        x: 332
         y: 321
-        width: 32
-        height: 23
+        width: 1
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -3996,12 +3996,12 @@ TextureImporter:
       name: Contra_enemies_130
       rect:
         serializedVersion: 2
-        x: 545
+        x: 332
         y: 308
-        width: 17
-        height: 27
+        width: 1
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4018,12 +4018,12 @@ TextureImporter:
       name: Contra_enemies_131
       rect:
         serializedVersion: 2
-        x: 646
+        x: 332
         y: 307
-        width: 34
-        height: 34
+        width: 1
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4040,12 +4040,12 @@ TextureImporter:
       name: Contra_enemies_132
       rect:
         serializedVersion: 2
-        x: 763
+        x: 332
         y: 324
-        width: 9
-        height: 9
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4062,12 +4062,12 @@ TextureImporter:
       name: Contra_enemies_133
       rect:
         serializedVersion: 2
-        x: 772
+        x: 332
         y: 324
-        width: 7
-        height: 9
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4084,12 +4084,12 @@ TextureImporter:
       name: Contra_enemies_134
       rect:
         serializedVersion: 2
-        x: 779
+        x: 332
         y: 324
-        width: 9
-        height: 9
+        width: 1
+        height: 1
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4106,12 +4106,12 @@ TextureImporter:
       name: Contra_enemies_135
       rect:
         serializedVersion: 2
-        x: 868
+        x: 332
         y: 321
-        width: 32
-        height: 23
+        width: 1
+        height: 4
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4133,7 +4133,7 @@ TextureImporter:
         width: 18
         height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4155,7 +4155,7 @@ TextureImporter:
         width: 18
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4177,7 +4177,7 @@ TextureImporter:
         width: 18
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4199,7 +4199,7 @@ TextureImporter:
         width: 18
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4221,7 +4221,7 @@ TextureImporter:
         width: 18
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4243,7 +4243,7 @@ TextureImporter:
         width: 14
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4260,12 +4260,12 @@ TextureImporter:
       name: Contra_enemies_142
       rect:
         serializedVersion: 2
-        x: 334
+        x: 332
         y: 311
-        width: 18
+        width: 1
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4282,12 +4282,12 @@ TextureImporter:
       name: Contra_enemies_143
       rect:
         serializedVersion: 2
-        x: 356
+        x: 332
         y: 306
-        width: 8
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4304,12 +4304,12 @@ TextureImporter:
       name: Contra_enemies_144
       rect:
         serializedVersion: 2
-        x: 435
+        x: 332
         y: 307
-        width: 6
+        width: 1
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4326,12 +4326,12 @@ TextureImporter:
       name: Contra_enemies_145
       rect:
         serializedVersion: 2
-        x: 449
+        x: 332
         y: 306
-        width: 26
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4348,12 +4348,12 @@ TextureImporter:
       name: Contra_enemies_146
       rect:
         serializedVersion: 2
-        x: 528
+        x: 332
         y: 311
-        width: 18
-        height: 16
+        width: 1
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4370,12 +4370,12 @@ TextureImporter:
       name: Contra_enemies_147
       rect:
         serializedVersion: 2
-        x: 561
+        x: 332
         y: 307
-        width: 18
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4392,12 +4392,12 @@ TextureImporter:
       name: Contra_enemies_148
       rect:
         serializedVersion: 2
-        x: 578
+        x: 332
         y: 307
-        width: 18
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4414,12 +4414,12 @@ TextureImporter:
       name: Contra_enemies_149
       rect:
         serializedVersion: 2
-        x: 597
+        x: 332
         y: 309
-        width: 14
+        width: 1
         height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4436,12 +4436,12 @@ TextureImporter:
       name: Contra_enemies_150
       rect:
         serializedVersion: 2
-        x: 612
+        x: 332
         y: 312
-        width: 18
+        width: 1
         height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4458,12 +4458,12 @@ TextureImporter:
       name: Contra_enemies_151
       rect:
         serializedVersion: 2
-        x: 634
+        x: 332
         y: 307
-        width: 8
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4480,12 +4480,12 @@ TextureImporter:
       name: Contra_enemies_152
       rect:
         serializedVersion: 2
-        x: 681
+        x: 332
         y: 308
-        width: 6
+        width: 1
         height: 16
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4502,12 +4502,12 @@ TextureImporter:
       name: Contra_enemies_153
       rect:
         serializedVersion: 2
-        x: 688
+        x: 332
         y: 307
-        width: 26
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4524,12 +4524,12 @@ TextureImporter:
       name: Contra_enemies_154
       rect:
         serializedVersion: 2
-        x: 713
+        x: 332
         y: 307
-        width: 26
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4546,12 +4546,12 @@ TextureImporter:
       name: Contra_enemies_155
       rect:
         serializedVersion: 2
-        x: 738
+        x: 332
         y: 307
-        width: 26
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4568,12 +4568,12 @@ TextureImporter:
       name: Contra_enemies_156
       rect:
         serializedVersion: 2
-        x: 763
+        x: 332
         y: 307
-        width: 26
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4590,12 +4590,12 @@ TextureImporter:
       name: Contra_enemies_157
       rect:
         serializedVersion: 2
-        x: 788
+        x: 332
         y: 307
-        width: 26
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4612,12 +4612,12 @@ TextureImporter:
       name: Contra_enemies_158
       rect:
         serializedVersion: 2
-        x: 813
+        x: 332
         y: 307
-        width: 26
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4639,7 +4639,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4661,7 +4661,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4683,7 +4683,7 @@ TextureImporter:
         width: 33
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4705,7 +4705,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4727,7 +4727,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4749,7 +4749,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4771,7 +4771,7 @@ TextureImporter:
         width: 18
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4793,7 +4793,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4815,7 +4815,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4837,7 +4837,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4856,10 +4856,10 @@ TextureImporter:
         serializedVersion: 2
         x: 313
         y: 272
-        width: 34
+        width: 20
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4876,12 +4876,12 @@ TextureImporter:
       name: Contra_enemies_170
       rect:
         serializedVersion: 2
-        x: 346
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4898,12 +4898,12 @@ TextureImporter:
       name: Contra_enemies_171
       rect:
         serializedVersion: 2
-        x: 379
+        x: 332
         y: 272
-        width: 18
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4920,12 +4920,12 @@ TextureImporter:
       name: Contra_enemies_172
       rect:
         serializedVersion: 2
-        x: 396
+        x: 332
         y: 280
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4942,12 +4942,12 @@ TextureImporter:
       name: Contra_enemies_173
       rect:
         serializedVersion: 2
-        x: 405
+        x: 332
         y: 272
-        width: 18
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4964,12 +4964,12 @@ TextureImporter:
       name: Contra_enemies_174
       rect:
         serializedVersion: 2
-        x: 421
+        x: 332
         y: 289
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -4986,12 +4986,12 @@ TextureImporter:
       name: Contra_enemies_175
       rect:
         serializedVersion: 2
-        x: 422
+        x: 332
         y: 272
-        width: 18
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5008,12 +5008,12 @@ TextureImporter:
       name: Contra_enemies_176
       rect:
         serializedVersion: 2
-        x: 430
+        x: 332
         y: 289
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5030,12 +5030,12 @@ TextureImporter:
       name: Contra_enemies_177
       rect:
         serializedVersion: 2
-        x: 439
+        x: 332
         y: 289
-        width: 36
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5052,12 +5052,12 @@ TextureImporter:
       name: Contra_enemies_178
       rect:
         serializedVersion: 2
-        x: 439
+        x: 332
         y: 272
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5074,12 +5074,12 @@ TextureImporter:
       name: Contra_enemies_179
       rect:
         serializedVersion: 2
-        x: 448
+        x: 332
         y: 272
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5096,12 +5096,12 @@ TextureImporter:
       name: Contra_enemies_180
       rect:
         serializedVersion: 2
-        x: 457
+        x: 332
         y: 272
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5118,12 +5118,12 @@ TextureImporter:
       name: Contra_enemies_181
       rect:
         serializedVersion: 2
-        x: 466
+        x: 332
         y: 272
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5140,12 +5140,12 @@ TextureImporter:
       name: Contra_enemies_182
       rect:
         serializedVersion: 2
-        x: 475
+        x: 332
         y: 289
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5162,12 +5162,12 @@ TextureImporter:
       name: Contra_enemies_183
       rect:
         serializedVersion: 2
-        x: 475
+        x: 332
         y: 272
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5184,12 +5184,12 @@ TextureImporter:
       name: Contra_enemies_184
       rect:
         serializedVersion: 2
-        x: 484
+        x: 332
         y: 289
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5206,12 +5206,12 @@ TextureImporter:
       name: Contra_enemies_185
       rect:
         serializedVersion: 2
-        x: 484
+        x: 332
         y: 272
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5228,12 +5228,12 @@ TextureImporter:
       name: Contra_enemies_186
       rect:
         serializedVersion: 2
-        x: 493
+        x: 332
         y: 289
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5250,12 +5250,12 @@ TextureImporter:
       name: Contra_enemies_187
       rect:
         serializedVersion: 2
-        x: 493
+        x: 332
         y: 272
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5272,12 +5272,12 @@ TextureImporter:
       name: Contra_enemies_188
       rect:
         serializedVersion: 2
-        x: 528
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5294,12 +5294,12 @@ TextureImporter:
       name: Contra_enemies_189
       rect:
         serializedVersion: 2
-        x: 561
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5316,12 +5316,12 @@ TextureImporter:
       name: Contra_enemies_190
       rect:
         serializedVersion: 2
-        x: 594
+        x: 332
         y: 272
-        width: 33
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5338,12 +5338,12 @@ TextureImporter:
       name: Contra_enemies_191
       rect:
         serializedVersion: 2
-        x: 626
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5360,12 +5360,12 @@ TextureImporter:
       name: Contra_enemies_192
       rect:
         serializedVersion: 2
-        x: 659
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5382,12 +5382,12 @@ TextureImporter:
       name: Contra_enemies_193
       rect:
         serializedVersion: 2
-        x: 692
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5404,12 +5404,12 @@ TextureImporter:
       name: Contra_enemies_194
       rect:
         serializedVersion: 2
-        x: 725
+        x: 332
         y: 280
-        width: 18
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5426,12 +5426,12 @@ TextureImporter:
       name: Contra_enemies_195
       rect:
         serializedVersion: 2
-        x: 742
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5448,12 +5448,12 @@ TextureImporter:
       name: Contra_enemies_196
       rect:
         serializedVersion: 2
-        x: 775
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5470,12 +5470,12 @@ TextureImporter:
       name: Contra_enemies_197
       rect:
         serializedVersion: 2
-        x: 808
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5492,12 +5492,12 @@ TextureImporter:
       name: Contra_enemies_198
       rect:
         serializedVersion: 2
-        x: 841
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5514,12 +5514,12 @@ TextureImporter:
       name: Contra_enemies_199
       rect:
         serializedVersion: 2
-        x: 874
+        x: 332
         y: 272
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5541,7 +5541,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5563,7 +5563,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5585,7 +5585,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5607,7 +5607,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5629,7 +5629,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5651,7 +5651,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5673,7 +5673,7 @@ TextureImporter:
         width: 10
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5695,7 +5695,7 @@ TextureImporter:
         width: 16
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5717,7 +5717,7 @@ TextureImporter:
         width: 17
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5739,7 +5739,7 @@ TextureImporter:
         width: 10
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5761,7 +5761,7 @@ TextureImporter:
         width: 17
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5783,7 +5783,7 @@ TextureImporter:
         width: 16
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5805,7 +5805,7 @@ TextureImporter:
         width: 26
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5827,7 +5827,7 @@ TextureImporter:
         width: 24
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5846,10 +5846,10 @@ TextureImporter:
         serializedVersion: 2
         x: 326
         y: 231
-        width: 18
+        width: 7
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5866,12 +5866,12 @@ TextureImporter:
       name: Contra_enemies_215
       rect:
         serializedVersion: 2
-        x: 343
+        x: 332
         y: 231
-        width: 22
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5888,12 +5888,12 @@ TextureImporter:
       name: Contra_enemies_216
       rect:
         serializedVersion: 2
-        x: 364
+        x: 332
         y: 231
-        width: 18
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5910,12 +5910,12 @@ TextureImporter:
       name: Contra_enemies_217
       rect:
         serializedVersion: 2
-        x: 381
+        x: 332
         y: 231
-        width: 26
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5932,12 +5932,12 @@ TextureImporter:
       name: Contra_enemies_218
       rect:
         serializedVersion: 2
-        x: 406
+        x: 332
         y: 223
-        width: 23
+        width: 1
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5954,12 +5954,12 @@ TextureImporter:
       name: Contra_enemies_219
       rect:
         serializedVersion: 2
-        x: 428
+        x: 332
         y: 231
-        width: 18
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5976,12 +5976,12 @@ TextureImporter:
       name: Contra_enemies_220
       rect:
         serializedVersion: 2
-        x: 445
+        x: 332
         y: 231
-        width: 17
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -5998,12 +5998,12 @@ TextureImporter:
       name: Contra_enemies_221
       rect:
         serializedVersion: 2
-        x: 461
+        x: 332
         y: 231
-        width: 17
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6020,12 +6020,12 @@ TextureImporter:
       name: Contra_enemies_222
       rect:
         serializedVersion: 2
-        x: 477
+        x: 332
         y: 231
-        width: 26
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6042,12 +6042,12 @@ TextureImporter:
       name: Contra_enemies_223
       rect:
         serializedVersion: 2
-        x: 502
+        x: 332
         y: 215
-        width: 26
+        width: 1
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6064,12 +6064,12 @@ TextureImporter:
       name: Contra_enemies_224
       rect:
         serializedVersion: 2
-        x: 528
+        x: 332
         y: 231
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6086,12 +6086,12 @@ TextureImporter:
       name: Contra_enemies_225
       rect:
         serializedVersion: 2
-        x: 561
+        x: 332
         y: 231
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6108,12 +6108,12 @@ TextureImporter:
       name: Contra_enemies_226
       rect:
         serializedVersion: 2
-        x: 594
+        x: 332
         y: 231
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6130,12 +6130,12 @@ TextureImporter:
       name: Contra_enemies_227
       rect:
         serializedVersion: 2
-        x: 625
+        x: 332
         y: 154
-        width: 55
+        width: 1
         height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6152,12 +6152,12 @@ TextureImporter:
       name: Contra_enemies_228
       rect:
         serializedVersion: 2
-        x: 627
+        x: 332
         y: 231
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6174,12 +6174,12 @@ TextureImporter:
       name: Contra_enemies_229
       rect:
         serializedVersion: 2
-        x: 660
+        x: 332
         y: 231
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6196,12 +6196,12 @@ TextureImporter:
       name: Contra_enemies_230
       rect:
         serializedVersion: 2
-        x: 679
+        x: 332
         y: 154
-        width: 55
+        width: 1
         height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6218,12 +6218,12 @@ TextureImporter:
       name: Contra_enemies_231
       rect:
         serializedVersion: 2
-        x: 693
+        x: 332
         y: 231
-        width: 59
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6240,12 +6240,12 @@ TextureImporter:
       name: Contra_enemies_232
       rect:
         serializedVersion: 2
-        x: 726
+        x: 332
         y: 231
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6262,12 +6262,12 @@ TextureImporter:
       name: Contra_enemies_233
       rect:
         serializedVersion: 2
-        x: 733
+        x: 332
         y: 159
-        width: 49
+        width: 1
         height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6284,12 +6284,12 @@ TextureImporter:
       name: Contra_enemies_234
       rect:
         serializedVersion: 2
-        x: 735
+        x: 332
         y: 231
-        width: 16
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6306,12 +6306,12 @@ TextureImporter:
       name: Contra_enemies_235
       rect:
         serializedVersion: 2
-        x: 750
+        x: 332
         y: 231
-        width: 17
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6328,12 +6328,12 @@ TextureImporter:
       name: Contra_enemies_236
       rect:
         serializedVersion: 2
-        x: 766
+        x: 332
         y: 231
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6350,12 +6350,12 @@ TextureImporter:
       name: Contra_enemies_237
       rect:
         serializedVersion: 2
-        x: 775
+        x: 332
         y: 231
-        width: 17
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6372,12 +6372,12 @@ TextureImporter:
       name: Contra_enemies_238
       rect:
         serializedVersion: 2
-        x: 791
+        x: 332
         y: 231
-        width: 16
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6394,12 +6394,12 @@ TextureImporter:
       name: Contra_enemies_239
       rect:
         serializedVersion: 2
-        x: 806
+        x: 332
         y: 231
-        width: 21
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6416,12 +6416,12 @@ TextureImporter:
       name: Contra_enemies_240
       rect:
         serializedVersion: 2
-        x: 826
+        x: 332
         y: 226
-        width: 28
+        width: 1
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6438,12 +6438,12 @@ TextureImporter:
       name: Contra_enemies_241
       rect:
         serializedVersion: 2
-        x: 853
+        x: 332
         y: 228
-        width: 18
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6460,12 +6460,12 @@ TextureImporter:
       name: Contra_enemies_242
       rect:
         serializedVersion: 2
-        x: 870
+        x: 332
         y: 231
-        width: 17
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6482,12 +6482,12 @@ TextureImporter:
       name: Contra_enemies_243
       rect:
         serializedVersion: 2
-        x: 886
+        x: 332
         y: 226
-        width: 18
+        width: 1
         height: 35
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6509,7 +6509,7 @@ TextureImporter:
         width: 58
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6531,7 +6531,7 @@ TextureImporter:
         width: 56
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6553,7 +6553,7 @@ TextureImporter:
         width: 66
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6570,12 +6570,12 @@ TextureImporter:
       name: Contra_enemies_247
       rect:
         serializedVersion: 2
-        x: 177
-        y: 157
-        width: 66
-        height: 66
+        x: 205
+        y: 191
+        width: 3
+        height: 3
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6597,7 +6597,7 @@ TextureImporter:
         width: 18
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6619,7 +6619,7 @@ TextureImporter:
         width: 18
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6641,7 +6641,7 @@ TextureImporter:
         width: 26
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6663,7 +6663,7 @@ TextureImporter:
         width: 34
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6685,7 +6685,7 @@ TextureImporter:
         width: 26
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6704,10 +6704,10 @@ TextureImporter:
         serializedVersion: 2
         x: 309
         y: 157
-        width: 34
+        width: 24
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6726,10 +6726,10 @@ TextureImporter:
         serializedVersion: 2
         x: 326
         y: 190
-        width: 26
+        width: 7
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6746,12 +6746,12 @@ TextureImporter:
       name: Contra_enemies_255
       rect:
         serializedVersion: 2
-        x: 342
+        x: 332
         y: 157
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6768,12 +6768,12 @@ TextureImporter:
       name: Contra_enemies_256
       rect:
         serializedVersion: 2
-        x: 351
+        x: 332
         y: 190
-        width: 26
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6790,12 +6790,12 @@ TextureImporter:
       name: Contra_enemies_257
       rect:
         serializedVersion: 2
-        x: 400
+        x: 332
         y: 190
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6812,12 +6812,12 @@ TextureImporter:
       name: Contra_enemies_258
       rect:
         serializedVersion: 2
-        x: 409
+        x: 332
         y: 190
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6834,12 +6834,12 @@ TextureImporter:
       name: Contra_enemies_259
       rect:
         serializedVersion: 2
-        x: 418
+        x: 332
         y: 190
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6856,12 +6856,12 @@ TextureImporter:
       name: Contra_enemies_260
       rect:
         serializedVersion: 2
-        x: 427
+        x: 332
         y: 190
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6878,12 +6878,12 @@ TextureImporter:
       name: Contra_enemies_261
       rect:
         serializedVersion: 2
-        x: 436
+        x: 332
         y: 190
-        width: 18
+        width: 1
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6900,12 +6900,12 @@ TextureImporter:
       name: Contra_enemies_262
       rect:
         serializedVersion: 2
-        x: 453
+        x: 332
         y: 182
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6922,12 +6922,12 @@ TextureImporter:
       name: Contra_enemies_263
       rect:
         serializedVersion: 2
-        x: 486
+        x: 332
         y: 182
-        width: 26
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6944,12 +6944,12 @@ TextureImporter:
       name: Contra_enemies_264
       rect:
         serializedVersion: 2
-        x: 511
+        x: 332
         y: 190
-        width: 18
+        width: 1
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6966,12 +6966,12 @@ TextureImporter:
       name: Contra_enemies_265
       rect:
         serializedVersion: 2
-        x: 528
+        x: 332
         y: 154
-        width: 50
+        width: 1
         height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -6988,12 +6988,12 @@ TextureImporter:
       name: Contra_enemies_266
       rect:
         serializedVersion: 2
-        x: 577
+        x: 332
         y: 157
-        width: 49
+        width: 1
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7010,12 +7010,12 @@ TextureImporter:
       name: Contra_enemies_267
       rect:
         serializedVersion: 2
-        x: 806
+        x: 332
         y: 185
-        width: 21
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7032,12 +7032,12 @@ TextureImporter:
       name: Contra_enemies_268
       rect:
         serializedVersion: 2
-        x: 826
+        x: 332
         y: 180
-        width: 28
+        width: 1
         height: 47
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7054,12 +7054,12 @@ TextureImporter:
       name: Contra_enemies_269
       rect:
         serializedVersion: 2
-        x: 853
+        x: 332
         y: 182
-        width: 17
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7081,7 +7081,7 @@ TextureImporter:
         width: 18
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7098,12 +7098,12 @@ TextureImporter:
       name: Contra_enemies_271
       rect:
         serializedVersion: 2
-        x: 375
+        x: 332
         y: 157
-        width: 18
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7120,12 +7120,12 @@ TextureImporter:
       name: Contra_enemies_272
       rect:
         serializedVersion: 2
-        x: 392
+        x: 332
         y: 157
-        width: 18
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7142,12 +7142,12 @@ TextureImporter:
       name: Contra_enemies_273
       rect:
         serializedVersion: 2
-        x: 409
+        x: 332
         y: 157
-        width: 18
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7164,12 +7164,12 @@ TextureImporter:
       name: Contra_enemies_274
       rect:
         serializedVersion: 2
-        x: 429
+        x: 332
         y: 149
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7186,12 +7186,12 @@ TextureImporter:
       name: Contra_enemies_275
       rect:
         serializedVersion: 2
-        x: 462
+        x: 332
         y: 149
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7208,12 +7208,12 @@ TextureImporter:
       name: Contra_enemies_276
       rect:
         serializedVersion: 2
-        x: 495
+        x: 332
         y: 149
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7230,12 +7230,12 @@ TextureImporter:
       name: Contra_enemies_277
       rect:
         serializedVersion: 2
-        x: 792
+        x: 332
         y: 164
-        width: 18
+        width: 1
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7252,12 +7252,12 @@ TextureImporter:
       name: Contra_enemies_278
       rect:
         serializedVersion: 2
-        x: 809
+        x: 332
         y: 164
-        width: 18
+        width: 1
         height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7274,12 +7274,12 @@ TextureImporter:
       name: Contra_enemies_279
       rect:
         serializedVersion: 2
-        x: 826
+        x: 332
         y: 147
-        width: 17
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7296,12 +7296,12 @@ TextureImporter:
       name: Contra_enemies_280
       rect:
         serializedVersion: 2
-        x: 842
+        x: 332
         y: 147
-        width: 17
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7318,12 +7318,12 @@ TextureImporter:
       name: Contra_enemies_281
       rect:
         serializedVersion: 2
-        x: 858
+        x: 332
         y: 147
-        width: 25
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7340,12 +7340,12 @@ TextureImporter:
       name: Contra_enemies_282
       rect:
         serializedVersion: 2
-        x: 882
+        x: 332
         y: 131
-        width: 26
+        width: 1
         height: 50
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7367,7 +7367,7 @@ TextureImporter:
         width: 58
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7389,7 +7389,7 @@ TextureImporter:
         width: 56
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7411,7 +7411,7 @@ TextureImporter:
         width: 66
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7433,7 +7433,7 @@ TextureImporter:
         width: 66
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7452,10 +7452,10 @@ TextureImporter:
         serializedVersion: 2
         x: 302
         y: 120
-        width: 34
+        width: 31
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7472,12 +7472,12 @@ TextureImporter:
       name: Contra_enemies_288
       rect:
         serializedVersion: 2
-        x: 335
+        x: 332
         y: 120
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7494,12 +7494,12 @@ TextureImporter:
       name: Contra_enemies_289
       rect:
         serializedVersion: 2
-        x: 400
+        x: 332
         y: 124
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7516,12 +7516,12 @@ TextureImporter:
       name: Contra_enemies_290
       rect:
         serializedVersion: 2
-        x: 409
+        x: 332
         y: 124
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7538,12 +7538,12 @@ TextureImporter:
       name: Contra_enemies_291
       rect:
         serializedVersion: 2
-        x: 418
+        x: 332
         y: 124
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7560,12 +7560,12 @@ TextureImporter:
       name: Contra_enemies_292
       rect:
         serializedVersion: 2
-        x: 427
+        x: 332
         y: 124
-        width: 10
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7582,12 +7582,12 @@ TextureImporter:
       name: Contra_enemies_293
       rect:
         serializedVersion: 2
-        x: 436
+        x: 332
         y: 124
-        width: 18
+        width: 1
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7604,12 +7604,12 @@ TextureImporter:
       name: Contra_enemies_294
       rect:
         serializedVersion: 2
-        x: 453
+        x: 332
         y: 116
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7626,12 +7626,12 @@ TextureImporter:
       name: Contra_enemies_295
       rect:
         serializedVersion: 2
-        x: 486
+        x: 332
         y: 116
-        width: 26
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7648,12 +7648,12 @@ TextureImporter:
       name: Contra_enemies_296
       rect:
         serializedVersion: 2
-        x: 511
+        x: 332
         y: 124
-        width: 18
+        width: 1
         height: 22
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7670,12 +7670,12 @@ TextureImporter:
       name: Contra_enemies_297
       rect:
         serializedVersion: 2
-        x: 528
+        x: 332
         y: 77
-        width: 50
+        width: 1
         height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7692,12 +7692,12 @@ TextureImporter:
       name: Contra_enemies_298
       rect:
         serializedVersion: 2
-        x: 577
+        x: 332
         y: 80
-        width: 49
+        width: 1
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7714,12 +7714,12 @@ TextureImporter:
       name: Contra_enemies_299
       rect:
         serializedVersion: 2
-        x: 625
+        x: 332
         y: 77
-        width: 55
+        width: 1
         height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7736,12 +7736,12 @@ TextureImporter:
       name: Contra_enemies_300
       rect:
         serializedVersion: 2
-        x: 679
+        x: 332
         y: 77
-        width: 55
+        width: 1
         height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7758,12 +7758,12 @@ TextureImporter:
       name: Contra_enemies_301
       rect:
         serializedVersion: 2
-        x: 733
+        x: 332
         y: 82
-        width: 49
+        width: 1
         height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7780,12 +7780,12 @@ TextureImporter:
       name: Contra_enemies_302
       rect:
         serializedVersion: 2
-        x: 429
+        x: 332
         y: 83
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7802,12 +7802,12 @@ TextureImporter:
       name: Contra_enemies_303
       rect:
         serializedVersion: 2
-        x: 462
+        x: 332
         y: 83
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7824,12 +7824,12 @@ TextureImporter:
       name: Contra_enemies_304
       rect:
         serializedVersion: 2
-        x: 495
+        x: 332
         y: 83
-        width: 34
+        width: 1
         height: 34
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7851,7 +7851,7 @@ TextureImporter:
         width: 58
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7873,7 +7873,7 @@ TextureImporter:
         width: 56
         height: 65
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7895,7 +7895,7 @@ TextureImporter:
         width: 66
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7917,7 +7917,7 @@ TextureImporter:
         width: 66
         height: 66
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7934,12 +7934,12 @@ TextureImporter:
       name: Contra_enemies_309
       rect:
         serializedVersion: 2
-        x: 402
+        x: 332
         y: 62
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7956,12 +7956,12 @@ TextureImporter:
       name: Contra_enemies_310
       rect:
         serializedVersion: 2
-        x: 406
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -7978,12 +7978,12 @@ TextureImporter:
       name: Contra_enemies_311
       rect:
         serializedVersion: 2
-        x: 410
+        x: 332
         y: 62
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8000,12 +8000,12 @@ TextureImporter:
       name: Contra_enemies_312
       rect:
         serializedVersion: 2
-        x: 414
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8022,12 +8022,12 @@ TextureImporter:
       name: Contra_enemies_313
       rect:
         serializedVersion: 2
-        x: 418
+        x: 332
         y: 62
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8044,12 +8044,12 @@ TextureImporter:
       name: Contra_enemies_314
       rect:
         serializedVersion: 2
-        x: 422
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8066,12 +8066,12 @@ TextureImporter:
       name: Contra_enemies_315
       rect:
         serializedVersion: 2
-        x: 430
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8088,12 +8088,12 @@ TextureImporter:
       name: Contra_enemies_316
       rect:
         serializedVersion: 2
-        x: 434
+        x: 332
         y: 62
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8110,12 +8110,12 @@ TextureImporter:
       name: Contra_enemies_317
       rect:
         serializedVersion: 2
-        x: 438
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8132,12 +8132,12 @@ TextureImporter:
       name: Contra_enemies_318
       rect:
         serializedVersion: 2
-        x: 442
+        x: 332
         y: 62
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8154,12 +8154,12 @@ TextureImporter:
       name: Contra_enemies_319
       rect:
         serializedVersion: 2
-        x: 446
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8176,12 +8176,12 @@ TextureImporter:
       name: Contra_enemies_320
       rect:
         serializedVersion: 2
-        x: 450
+        x: 332
         y: 62
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8198,12 +8198,12 @@ TextureImporter:
       name: Contra_enemies_321
       rect:
         serializedVersion: 2
-        x: 471
+        x: 332
         y: 62
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8220,12 +8220,12 @@ TextureImporter:
       name: Contra_enemies_322
       rect:
         serializedVersion: 2
-        x: 471
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8242,12 +8242,12 @@ TextureImporter:
       name: Contra_enemies_323
       rect:
         serializedVersion: 2
-        x: 479
+        x: 332
         y: 62
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8264,12 +8264,12 @@ TextureImporter:
       name: Contra_enemies_324
       rect:
         serializedVersion: 2
-        x: 479
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8286,12 +8286,12 @@ TextureImporter:
       name: Contra_enemies_325
       rect:
         serializedVersion: 2
-        x: 487
+        x: 332
         y: 62
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8308,12 +8308,12 @@ TextureImporter:
       name: Contra_enemies_326
       rect:
         serializedVersion: 2
-        x: 487
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8330,12 +8330,12 @@ TextureImporter:
       name: Contra_enemies_327
       rect:
         serializedVersion: 2
-        x: 495
+        x: 332
         y: 62
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8352,12 +8352,12 @@ TextureImporter:
       name: Contra_enemies_328
       rect:
         serializedVersion: 2
-        x: 495
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8374,12 +8374,12 @@ TextureImporter:
       name: Contra_enemies_329
       rect:
         serializedVersion: 2
-        x: 503
+        x: 332
         y: 62
-        width: 15
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8396,12 +8396,12 @@ TextureImporter:
       name: Contra_enemies_330
       rect:
         serializedVersion: 2
-        x: 503
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8418,12 +8418,12 @@ TextureImporter:
       name: Contra_enemies_331
       rect:
         serializedVersion: 2
-        x: 511
+        x: 332
         y: 54
-        width: 9
+        width: 1
         height: 9
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8440,12 +8440,12 @@ TextureImporter:
       name: Contra_enemies_332
       rect:
         serializedVersion: 2
-        x: 528
+        x: 332
         y: 0
-        width: 50
+        width: 1
         height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8462,12 +8462,12 @@ TextureImporter:
       name: Contra_enemies_333
       rect:
         serializedVersion: 2
-        x: 577
+        x: 332
         y: 3
-        width: 49
+        width: 1
         height: 71
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8484,12 +8484,12 @@ TextureImporter:
       name: Contra_enemies_334
       rect:
         serializedVersion: 2
-        x: 625
+        x: 332
         y: 0
-        width: 55
+        width: 1
         height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8506,12 +8506,12 @@ TextureImporter:
       name: Contra_enemies_335
       rect:
         serializedVersion: 2
-        x: 679
+        x: 332
         y: 0
-        width: 55
+        width: 1
         height: 78
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8528,12 +8528,12 @@ TextureImporter:
       name: Contra_enemies_336
       rect:
         serializedVersion: 2
-        x: 733
+        x: 332
         y: 5
-        width: 49
+        width: 1
         height: 73
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8550,12 +8550,12 @@ TextureImporter:
       name: Contra_enemies_337
       rect:
         serializedVersion: 2
-        x: 398
+        x: 332
         y: 37
-        width: 66
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8572,12 +8572,12 @@ TextureImporter:
       name: Contra_enemies_338
       rect:
         serializedVersion: 2
-        x: 398
+        x: 332
         y: 0
-        width: 66
+        width: 1
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8594,12 +8594,12 @@ TextureImporter:
       name: Contra_enemies_339
       rect:
         serializedVersion: 2
-        x: 463
+        x: 332
         y: 37
-        width: 66
+        width: 1
         height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8616,12 +8616,12 @@ TextureImporter:
       name: Contra_enemies_340
       rect:
         serializedVersion: 2
-        x: 463
+        x: 332
         y: 0
-        width: 66
+        width: 1
         height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -8638,7 +8638,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 02ed31ad4b247f84a8be0e4077988615
     internalID: 0
     vertices: []
     indices: 
