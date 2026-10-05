@@ -8,6 +8,11 @@ public class CharacterMovement : MonoBehaviour
 {
 
     Rigidbody2D rb;
+
+
+    public BoxCollider2D groundcheck;
+    public TilemapCollider2D tiles;
+
     bool isOnGround;
     float playerSpeed;
 
@@ -38,10 +43,19 @@ public class CharacterMovement : MonoBehaviour
         // Read the "Move" action value, which is a 2D vector
         Vector2 moveValue = moveAction.ReadValue<Vector2>() * playerSpeed;
 
-        if (jumpAction.WasPressedThisFrame())
+        // ground check using small collision box (no wall jumping)
+        if (groundcheck.IsTouching(tiles))
         {
-            Debug.Log("Hi");
-            rb.linearVelocity = new Vector2(moveValue.x, jumpHeight);
+            isOnGround = true;
+        } else
+        {
+            isOnGround = false;
+        }
+
+        if (jumpAction.WasPressedThisFrame() && isOnGround)
+        {
+            // Debug.Log("Hi");
+            rb.linearVelocityY = jumpHeight;
             
         }
 
