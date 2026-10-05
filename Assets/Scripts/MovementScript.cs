@@ -43,7 +43,7 @@ public class CharacterMovement : MonoBehaviour
         // Read the "Move" action value, which is a 2D vector
         Vector2 moveValue = moveAction.ReadValue<Vector2>() * playerSpeed;
 
-        // ground check using small collision box (no wall jumping)
+        // ground check using small collision box (no wall jumping) 
         if (groundcheck.IsTouching(tiles))
         {
             isOnGround = true;
