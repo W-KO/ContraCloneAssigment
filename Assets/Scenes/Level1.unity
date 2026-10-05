@@ -3983,7 +3983,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5403936945698336393, guid: 64c145c625e47d54fb8353a3b24990ff, type: 3}
       propertyPath: timeBetweenSpawns
-      value: 1
+      value: 0.1
       objectReference: {fileID: 0}
     - target: {fileID: 5403936945698336393, guid: 64c145c625e47d54fb8353a3b24990ff, type: 3}
       propertyPath: attackAction.m_Name
