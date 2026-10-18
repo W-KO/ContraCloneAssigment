@@ -1136,10 +1136,10 @@ TextureImporter:
       name: Contra_enemies_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 324
-        width: 26
-        height: 1
+        x: 1
+        y: 284
+        width: 24
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1158,10 +1158,10 @@ TextureImporter:
       name: Contra_enemies_1
       rect:
         serializedVersion: 2
-        x: 50
-        y: 324
-        width: 21
-        height: 1
+        x: 26
+        y: 283
+        width: 24
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1180,10 +1180,10 @@ TextureImporter:
       name: Contra_enemies_2
       rect:
         serializedVersion: 2
-        x: 70
-        y: 324
-        width: 21
-        height: 1
+        x: 51
+        y: 284
+        width: 19
+        height: 39
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1202,10 +1202,10 @@ TextureImporter:
       name: Contra_enemies_3
       rect:
         serializedVersion: 2
-        x: 90
-        y: 324
-        width: 26
-        height: 1
+        x: 71
+        y: 284
+        width: 19
+        height: 38
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1224,10 +1224,10 @@ TextureImporter:
       name: Contra_enemies_4
       rect:
         serializedVersion: 2
-        x: 115
-        y: 324
-        width: 26
-        height: 1
+        x: 91
+        y: 284
+        width: 24
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1246,10 +1246,10 @@ TextureImporter:
       name: Contra_enemies_5
       rect:
         serializedVersion: 2
-        x: 140
-        y: 324
-        width: 18
-        height: 1
+        x: 116
+        y: 284
+        width: 24
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1268,10 +1268,10 @@ TextureImporter:
       name: Contra_enemies_6
       rect:
         serializedVersion: 2
-        x: 157
-        y: 324
-        width: 18
-        height: 1
+        x: 141
+        y: 284
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1290,10 +1290,10 @@ TextureImporter:
       name: Contra_enemies_7
       rect:
         serializedVersion: 2
-        x: 174
-        y: 324
-        width: 18
-        height: 1
+        x: 158
+        y: 284
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1312,10 +1312,10 @@ TextureImporter:
       name: Contra_enemies_8
       rect:
         serializedVersion: 2
-        x: 191
-        y: 324
-        width: 18
-        height: 1
+        x: 175
+        y: 284
+        width: 16
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1334,10 +1334,10 @@ TextureImporter:
       name: Contra_enemies_9
       rect:
         serializedVersion: 2
-        x: 208
-        y: 324
-        width: 18
-        height: 1
+        x: 192
+        y: 284
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1356,10 +1356,10 @@ TextureImporter:
       name: Contra_enemies_10
       rect:
         serializedVersion: 2
-        x: 225
-        y: 324
-        width: 18
-        height: 1
+        x: 209
+        y: 284
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1378,10 +1378,10 @@ TextureImporter:
       name: Contra_enemies_11
       rect:
         serializedVersion: 2
-        x: 243
-        y: 324
-        width: 17
-        height: 1
+        x: 226
+        y: 284
+        width: 16
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1400,10 +1400,10 @@ TextureImporter:
       name: Contra_enemies_12
       rect:
         serializedVersion: 2
-        x: 259
-        y: 324
-        width: 27
-        height: 1
+        x: 244
+        y: 284
+        width: 15
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1422,10 +1422,10 @@ TextureImporter:
       name: Contra_enemies_13
       rect:
         serializedVersion: 2
-        x: 285
-        y: 324
-        width: 33
-        height: 1
+        x: 260
+        y: 284
+        width: 25
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1444,10 +1444,10 @@ TextureImporter:
       name: Contra_enemies_14
       rect:
         serializedVersion: 2
-        x: 320
-        y: 324
-        width: 13
-        height: 1
+        x: 286
+        y: 284
+        width: 25
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1466,10 +1466,10 @@ TextureImporter:
       name: Contra_enemies_15
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 1
+        y: 248
+        width: 34
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1488,10 +1488,10 @@ TextureImporter:
       name: Contra_enemies_16
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 19
+        y: 253
+        width: 16
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1510,10 +1510,10 @@ TextureImporter:
       name: Contra_enemies_17
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 36
+        y: 249
+        width: 15
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1532,10 +1532,10 @@ TextureImporter:
       name: Contra_enemies_18
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 56
+        y: 249
+        width: 15
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1554,10 +1554,10 @@ TextureImporter:
       name: Contra_enemies_19
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 72
+        y: 256
+        width: 24
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1576,10 +1576,10 @@ TextureImporter:
       name: Contra_enemies_20
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 97
+        y: 248
+        width: 11
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1598,10 +1598,10 @@ TextureImporter:
       name: Contra_enemies_21
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 114
+        y: 248
+        width: 34
+        height: 23
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1620,10 +1620,10 @@ TextureImporter:
       name: Contra_enemies_22
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 132
+        y: 253
+        width: 16
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1642,10 +1642,10 @@ TextureImporter:
       name: Contra_enemies_23
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 149
+        y: 249
+        width: 15
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1664,10 +1664,10 @@ TextureImporter:
       name: Contra_enemies_24
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 169
+        y: 249
+        width: 15
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1686,10 +1686,10 @@ TextureImporter:
       name: Contra_enemies_25
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 185
+        y: 256
+        width: 24
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1708,10 +1708,10 @@ TextureImporter:
       name: Contra_enemies_26
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 210
+        y: 248
+        width: 11
+        height: 19
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1730,10 +1730,10 @@ TextureImporter:
       name: Contra_enemies_27
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 227
+        y: 265
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1752,10 +1752,10 @@ TextureImporter:
       name: Contra_enemies_28
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 237
+        y: 266
+        width: 6
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1774,10 +1774,10 @@ TextureImporter:
       name: Contra_enemies_29
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 246
+        y: 266
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1796,10 +1796,10 @@ TextureImporter:
       name: Contra_enemies_30
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 254
+        y: 265
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1818,10 +1818,10 @@ TextureImporter:
       name: Contra_enemies_31
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 263
+        y: 266
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1840,10 +1840,10 @@ TextureImporter:
       name: Contra_enemies_32
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 273
+        y: 266
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1862,10 +1862,10 @@ TextureImporter:
       name: Contra_enemies_33
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 281
+        y: 266
+        width: 7
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1884,10 +1884,10 @@ TextureImporter:
       name: Contra_enemies_34
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 229
+        y: 246
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1906,10 +1906,10 @@ TextureImporter:
       name: Contra_enemies_35
       rect:
         serializedVersion: 2
-        x: 25
-        y: 324
-        width: 26
-        height: 1
+        x: 244
+        y: 248
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1928,10 +1928,10 @@ TextureImporter:
       name: Contra_enemies_36
       rect:
         serializedVersion: 2
-        x: 311
-        y: 324
-        width: 22
-        height: 1
+        x: 253
+        y: 248
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1950,10 +1950,10 @@ TextureImporter:
       name: Contra_enemies_37
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 262
+        y: 247
+        width: 8
+        height: 9
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1972,10 +1972,10 @@ TextureImporter:
       name: Contra_enemies_38
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 292
+        y: 237
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1994,10 +1994,10 @@ TextureImporter:
       name: Contra_enemies_39
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 309
+        y: 237
+        width: 16
+        height: 11
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2016,10 +2016,10 @@ TextureImporter:
       name: Contra_enemies_40
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 11
+        y: 213
+        width: 31
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2038,10 +2038,10 @@ TextureImporter:
       name: Contra_enemies_41
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 43
+        y: 212
+        width: 32
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2060,10 +2060,10 @@ TextureImporter:
       name: Contra_enemies_42
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 80
+        y: 213
+        width: 16
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2082,10 +2082,10 @@ TextureImporter:
       name: Contra_enemies_43
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 97
+        y: 213
+        width: 16
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2104,10 +2104,10 @@ TextureImporter:
       name: Contra_enemies_44
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 129
+        y: 198
+        width: 24
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2126,10 +2126,10 @@ TextureImporter:
       name: Contra_enemies_45
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 166
+        y: 211
+        width: 32
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2148,10 +2148,10 @@ TextureImporter:
       name: Contra_enemies_46
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 237
+        y: 223
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2170,10 +2170,10 @@ TextureImporter:
       name: Contra_enemies_47
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 249
+        y: 223
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2192,10 +2192,10 @@ TextureImporter:
       name: Contra_enemies_48
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 261
+        y: 223
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2214,10 +2214,10 @@ TextureImporter:
       name: Contra_enemies_49
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 277
+        y: 223
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2236,10 +2236,10 @@ TextureImporter:
       name: Contra_enemies_50
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 289
+        y: 223
+        width: 12
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2258,10 +2258,10 @@ TextureImporter:
       name: Contra_enemies_51
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 302
+        y: 223
+        width: 11
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2280,10 +2280,10 @@ TextureImporter:
       name: Contra_enemies_52
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 18
+        y: 187
+        width: 23
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2302,10 +2302,10 @@ TextureImporter:
       name: Contra_enemies_53
       rect:
         serializedVersion: 2
-        x: 0
-        y: 324
-        width: 36
-        height: 1
+        x: 43
+        y: 187
+        width: 24
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2324,10 +2324,10 @@ TextureImporter:
       name: Contra_enemies_54
       rect:
         serializedVersion: 2
-        x: 18
-        y: 324
-        width: 18
-        height: 1
+        x: 154
+        y: 196
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2346,10 +2346,10 @@ TextureImporter:
       name: Contra_enemies_55
       rect:
         serializedVersion: 2
-        x: 35
-        y: 324
-        width: 17
-        height: 1
+        x: 231
+        y: 188
+        width: 8
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2368,10 +2368,10 @@ TextureImporter:
       name: Contra_enemies_56
       rect:
         serializedVersion: 2
-        x: 55
-        y: 324
-        width: 17
-        height: 1
+        x: 240
+        y: 184
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2390,10 +2390,10 @@ TextureImporter:
       name: Contra_enemies_57
       rect:
         serializedVersion: 2
-        x: 71
-        y: 324
-        width: 26
-        height: 1
+        x: 258
+        y: 177
+        width: 30
+        height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2412,10 +2412,10 @@ TextureImporter:
       name: Contra_enemies_58
       rect:
         serializedVersion: 2
-        x: 113
-        y: 324
-        width: 36
-        height: 1
+        x: 290
+        y: 173
+        width: 27
+        height: 33
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2434,10 +2434,10 @@ TextureImporter:
       name: Contra_enemies_59
       rect:
         serializedVersion: 2
-        x: 131
-        y: 324
-        width: 18
-        height: 1
+        x: 315
+        y: 184
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2456,10 +2456,10 @@ TextureImporter:
       name: Contra_enemies_60
       rect:
         serializedVersion: 2
-        x: 148
-        y: 324
-        width: 17
-        height: 1
+        x: 9
+        y: 187
+        width: 8
+        height: 7
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2478,10 +2478,10 @@ TextureImporter:
       name: Contra_enemies_61
       rect:
         serializedVersion: 2
-        x: 168
-        y: 324
-        width: 17
-        height: 1
+        x: 205
+        y: 190
+        width: 15
+        height: 5
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2500,10 +2500,10 @@ TextureImporter:
       name: Contra_enemies_62
       rect:
         serializedVersion: 2
-        x: 184
-        y: 324
-        width: 26
-        height: 1
+        x: 223
+        y: 189
+        width: 6
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2522,10 +2522,10 @@ TextureImporter:
       name: Contra_enemies_63
       rect:
         serializedVersion: 2
-        x: 226
-        y: 324
-        width: 10
-        height: 1
+        x: 69
+        y: 152
+        width: 16
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2544,10 +2544,10 @@ TextureImporter:
       name: Contra_enemies_64
       rect:
         serializedVersion: 2
-        x: 236
-        y: 324
-        width: 8
-        height: 1
+        x: 86
+        y: 151
+        width: 28
+        height: 26
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2566,10 +2566,10 @@ TextureImporter:
       name: Contra_enemies_65
       rect:
         serializedVersion: 2
-        x: 245
-        y: 324
-        width: 8
-        height: 1
+        x: 117
+        y: 151
+        width: 33
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2588,10 +2588,10 @@ TextureImporter:
       name: Contra_enemies_66
       rect:
         serializedVersion: 2
-        x: 253
-        y: 324
-        width: 10
-        height: 1
+        x: 153
+        y: 151
+        width: 30
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2610,10 +2610,10 @@ TextureImporter:
       name: Contra_enemies_67
       rect:
         serializedVersion: 2
-        x: 262
-        y: 324
-        width: 9
-        height: 1
+        x: 187
+        y: 153
+        width: 12
+        height: 13
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2632,10 +2632,10 @@ TextureImporter:
       name: Contra_enemies_68
       rect:
         serializedVersion: 2
-        x: 272
-        y: 324
-        width: 8
-        height: 1
+        x: 202
+        y: 151
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2654,10 +2654,10 @@ TextureImporter:
       name: Contra_enemies_69
       rect:
         serializedVersion: 2
-        x: 280
-        y: 324
-        width: 9
-        height: 1
+        x: 219
+        y: 151
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2676,10 +2676,10 @@ TextureImporter:
       name: Contra_enemies_70
       rect:
         serializedVersion: 2
-        x: 289
-        y: 324
-        width: 18
-        height: 1
+        x: 237
+        y: 147
+        width: 24
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2698,10 +2698,10 @@ TextureImporter:
       name: Contra_enemies_71
       rect:
         serializedVersion: 2
-        x: 306
-        y: 324
-        width: 10
-        height: 1
+        x: 268
+        y: 145
+        width: 28
+        height: 28
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2720,10 +2720,10 @@ TextureImporter:
       name: Contra_enemies_72
       rect:
         serializedVersion: 2
-        x: 315
-        y: 324
-        width: 18
-        height: 1
+        x: 299
+        y: 153
+        width: 9
+        height: 20
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2742,10 +2742,10 @@ TextureImporter:
       name: Contra_enemies_73
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 318
+        y: 153
+        width: 13
+        height: 22
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2764,10 +2764,10 @@ TextureImporter:
       name: Contra_enemies_74
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 57
+        y: 110
+        width: 17
+        height: 37
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2786,10 +2786,10 @@ TextureImporter:
       name: Contra_enemies_75
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 75
+        y: 110
+        width: 17
+        height: 36
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2808,10 +2808,10 @@ TextureImporter:
       name: Contra_enemies_76
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 302
+        y: 143
+        width: 10
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2830,10 +2830,10 @@ TextureImporter:
       name: Contra_enemies_77
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 313
+        y: 143
+        width: 15
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2852,10 +2852,10 @@ TextureImporter:
       name: Contra_enemies_78
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 23
+        y: 110
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2874,10 +2874,10 @@ TextureImporter:
       name: Contra_enemies_79
       rect:
         serializedVersion: 2
-        x: 96
-        y: 324
-        width: 13
-        height: 1
+        x: 40
+        y: 109
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2896,10 +2896,10 @@ TextureImporter:
       name: Contra_enemies_80
       rect:
         serializedVersion: 2
-        x: 209
-        y: 324
-        width: 13
-        height: 1
+        x: 93
+        y: 110
+        width: 22
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2918,10 +2918,10 @@ TextureImporter:
       name: Contra_enemies_81
       rect:
         serializedVersion: 2
-        x: 228
-        y: 324
-        width: 14
-        height: 1
+        x: 118
+        y: 110
+        width: 22
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2940,10 +2940,10 @@ TextureImporter:
       name: Contra_enemies_82
       rect:
         serializedVersion: 2
-        x: 243
-        y: 324
-        width: 10
-        height: 1
+        x: 143
+        y: 124
+        width: 8
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2962,10 +2962,10 @@ TextureImporter:
       name: Contra_enemies_83
       rect:
         serializedVersion: 2
-        x: 252
-        y: 324
-        width: 10
-        height: 1
+        x: 152
+        y: 110
+        width: 16
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -2984,10 +2984,10 @@ TextureImporter:
       name: Contra_enemies_84
       rect:
         serializedVersion: 2
-        x: 261
-        y: 324
-        width: 10
-        height: 1
+        x: 169
+        y: 110
+        width: 16
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3006,10 +3006,10 @@ TextureImporter:
       name: Contra_enemies_85
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 188
+        y: 110
+        width: 17
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3028,10 +3028,10 @@ TextureImporter:
       name: Contra_enemies_86
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 206
+        y: 110
+        width: 19
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3050,10 +3050,10 @@ TextureImporter:
       name: Contra_enemies_87
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 228
+        y: 110
+        width: 20
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3072,10 +3072,10 @@ TextureImporter:
       name: Contra_enemies_88
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 286
+        y: 110
+        width: 21
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3094,10 +3094,10 @@ TextureImporter:
       name: Contra_enemies_89
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 252
+        y: 110
+        width: 13
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3116,10 +3116,10 @@ TextureImporter:
       name: Contra_enemies_90
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 268
+        y: 110
+        width: 14
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3138,10 +3138,10 @@ TextureImporter:
       name: Contra_enemies_91
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 82
+        y: 65
+        width: 14
+        height: 15
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3160,10 +3160,10 @@ TextureImporter:
       name: Contra_enemies_92
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 97
+        y: 64
+        width: 16
+        height: 31
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3182,10 +3182,10 @@ TextureImporter:
       name: Contra_enemies_93
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 123
+        y: 67
+        width: 12
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3204,10 +3204,10 @@ TextureImporter:
       name: Contra_enemies_94
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 140
+        y: 67
+        width: 13
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3226,10 +3226,10 @@ TextureImporter:
       name: Contra_enemies_95
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 157
+        y: 67
+        width: 13
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3248,10 +3248,10 @@ TextureImporter:
       name: Contra_enemies_96
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 176
+        y: 67
+        width: 10
+        height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3270,10 +3270,10 @@ TextureImporter:
       name: Contra_enemies_97
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 190
+        y: 67
+        width: 15
+        height: 18
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3292,10 +3292,10 @@ TextureImporter:
       name: Contra_enemies_98
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 206
+        y: 67
+        width: 12
+        height: 27
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3314,10 +3314,10 @@ TextureImporter:
       name: Contra_enemies_99
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 245
+        y: 62
+        width: 30
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3336,10 +3336,10 @@ TextureImporter:
       name: Contra_enemies_100
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 23
+        y: 30
+        width: 16
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3358,10 +3358,10 @@ TextureImporter:
       name: Contra_enemies_101
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 40
+        y: 27
+        width: 15
+        height: 25
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3380,10 +3380,10 @@ TextureImporter:
       name: Contra_enemies_102
       rect:
         serializedVersion: 2
-        x: 0
-        y: 324
-        width: 9
-        height: 1
+        x: 56
+        y: 26
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3402,10 +3402,10 @@ TextureImporter:
       name: Contra_enemies_103
       rect:
         serializedVersion: 2
-        x: 0
-        y: 324
-        width: 9
-        height: 1
+        x: 73
+        y: 26
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3424,10 +3424,10 @@ TextureImporter:
       name: Contra_enemies_104
       rect:
         serializedVersion: 2
-        x: 8
-        y: 324
-        width: 9
-        height: 1
+        x: 92
+        y: 28
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3446,10 +3446,10 @@ TextureImporter:
       name: Contra_enemies_105
       rect:
         serializedVersion: 2
-        x: 8
-        y: 324
-        width: 9
-        height: 1
+        x: 107
+        y: 31
+        width: 16
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3468,10 +3468,10 @@ TextureImporter:
       name: Contra_enemies_106
       rect:
         serializedVersion: 2
-        x: 16
-        y: 324
-        width: 9
-        height: 1
+        x: 129
+        y: 26
+        width: 6
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3490,10 +3490,10 @@ TextureImporter:
       name: Contra_enemies_107
       rect:
         serializedVersion: 2
-        x: 16
-        y: 324
-        width: 9
-        height: 1
+        x: 141
+        y: 26
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3512,10 +3512,10 @@ TextureImporter:
       name: Contra_enemies_108
       rect:
         serializedVersion: 2
-        x: 24
-        y: 324
-        width: 9
-        height: 1
+        x: 177
+        y: 26
+        width: 32
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3534,10 +3534,10 @@ TextureImporter:
       name: Contra_enemies_109
       rect:
         serializedVersion: 2
-        x: 24
-        y: 324
-        width: 9
-        height: 1
+        x: 210
+        y: 26
+        width: 31
+        height: 32
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3556,10 +3556,10 @@ TextureImporter:
       name: Contra_enemies_110
       rect:
         serializedVersion: 2
-        x: 255
-        y: 324
-        width: 18
-        height: 1
+        x: 245
+        y: 31
+        width: 30
+        height: 21
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3578,10 +3578,10 @@ TextureImporter:
       name: Contra_enemies_111
       rect:
         serializedVersion: 2
-        x: 272
-        y: 324
-        width: 18
-        height: 1
+        x: 6
+        y: 8
+        width: 10
+        height: 10
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3600,10 +3600,10 @@ TextureImporter:
       name: Contra_enemies_112
       rect:
         serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
+        x: 21
+        y: 6
+        width: 14
+        height: 14
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3622,10 +3622,10 @@ TextureImporter:
       name: Contra_enemies_113
       rect:
         serializedVersion: 2
-        x: 0
-        y: 306
-        width: 25
-        height: 19
+        x: 39
+        y: 6
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3644,10 +3644,10 @@ TextureImporter:
       name: Contra_enemies_114
       rect:
         serializedVersion: 2
-        x: 25
-        y: 305
-        width: 25
-        height: 20
+        x: 56
+        y: 6
+        width: 16
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3666,10 +3666,10 @@ TextureImporter:
       name: Contra_enemies_115
       rect:
         serializedVersion: 2
-        x: 50
-        y: 306
-        width: 21
-        height: 19
+        x: 73
+        y: 6
+        width: 15
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3688,10 +3688,10 @@ TextureImporter:
       name: Contra_enemies_116
       rect:
         serializedVersion: 2
-        x: 70
-        y: 306
-        width: 21
-        height: 19
+        x: 92
+        y: 8
+        width: 12
+        height: 12
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3710,10 +3710,10 @@ TextureImporter:
       name: Contra_enemies_117
       rect:
         serializedVersion: 2
-        x: 90
-        y: 306
-        width: 26
-        height: 19
+        x: 107
+        y: 11
+        width: 16
+        height: 6
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3732,10 +3732,10 @@ TextureImporter:
       name: Contra_enemies_118
       rect:
         serializedVersion: 2
-        x: 115
-        y: 306
-        width: 26
-        height: 19
+        x: 129
+        y: 6
+        width: 6
+        height: 16
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3746,4890 +3746,6 @@ TextureImporter:
       bones: []
       spriteID: 2f0b33bb2237fae90800000000000000
       internalID: -7012259501785763598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_119
-      rect:
-        serializedVersion: 2
-        x: 140
-        y: 306
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e91decd3c4539d00800000000000000
-      internalID: 978218744271411684
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_120
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 306
-        width: 18
-        height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 00a2d12d1ed32dc40800000000000000
-      internalID: 5535554932093823488
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_121
-      rect:
-        serializedVersion: 2
-        x: 191
-        y: 308
-        width: 26
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 00275e0546629d1d0800000000000000
-      internalID: -3325584637540601344
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_122
-      rect:
-        serializedVersion: 2
-        x: 233
-        y: 307
-        width: 34
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5e2b4f201d2250120800000000000000
-      internalID: 2379346259228275429
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_123
-      rect:
-        serializedVersion: 2
-        x: 293
-        y: 323
-        width: 26
-        height: 2
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 12c4cb594ac8212d0800000000000000
-      internalID: -3309428137649222623
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_124
-      rect:
-        serializedVersion: 2
-        x: 318
-        y: 323
-        width: 15
-        height: 2
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 71923e15182bce600800000000000000
-      internalID: 498969927225649431
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_125
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 323
-        width: 1
-        height: 2
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b2bdd430b421b490800000000000000
-      internalID: -7732358745998642505
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_126
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 306
-        width: 1
-        height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 38c85edc249e191c0800000000000000
-      internalID: -4498558079634928509
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_127
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 306
-        width: 1
-        height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9eb4db1a7d9c2b840800000000000000
-      internalID: 5238471244553997289
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_128
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a579bdd7d9925b40800000000000000
-      internalID: 5427569653351806372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_129
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 321
-        width: 1
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d07717180cc118a70800000000000000
-      internalID: 8827368357753878285
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_130
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 308
-        width: 1
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4f4dba0f037670940800000000000000
-      internalID: 5262288149499598068
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_131
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c953342cedd64180800000000000000
-      internalID: -9131367188157736508
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_132
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9a9cf29410744d50800000000000000
-      internalID: 6720619777611307678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_133
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1a71d0f5dbadd2850800000000000000
-      internalID: 6353975156168005537
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_134
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 324
-        width: 1
-        height: 1
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 998029a5a6b033e40800000000000000
-      internalID: 5634860110184581273
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_135
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 321
-        width: 1
-        height: 4
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2091a7f24d29adb70800000000000000
-      internalID: 8924607051615312130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_136
-      rect:
-        serializedVersion: 2
-        x: 157
-        y: 307
-        width: 18
-        height: 17
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bf75224e254ca6c30800000000000000
-      internalID: 4353507850100824059
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_137
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 306
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 42545d1adc9ff31e0800000000000000
-      internalID: -2215777830064274140
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_138
-      rect:
-        serializedVersion: 2
-        x: 266
-        y: 306
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 015460008552ec990800000000000000
-      internalID: -7363907280816421616
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_139
-      rect:
-        serializedVersion: 2
-        x: 283
-        y: 306
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 07c903e12f7df3fa0800000000000000
-      internalID: -5818694758650831760
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_140
-      rect:
-        serializedVersion: 2
-        x: 300
-        y: 306
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab50e8cf1a51ba9b0800000000000000
-      internalID: -5067933170204277318
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_141
-      rect:
-        serializedVersion: 2
-        x: 319
-        y: 308
-        width: 14
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8ec135355aaf77a90800000000000000
-      internalID: -7316103481665577752
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_142
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 311
-        width: 1
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d15fdc829e38fcc30800000000000000
-      internalID: 4381865999889986845
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_143
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 306
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eed6f782004492ad0800000000000000
-      internalID: -2726573331925996050
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_144
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 384ec0c1b50262050800000000000000
-      internalID: 5775339147833959555
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_145
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 306
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5977fd6873306f50800000000000000
-      internalID: 6872549623701403998
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_146
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 311
-        width: 1
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d37d6febc55f93300800000000000000
-      internalID: 232486634475935549
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_147
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23fdfbe8d5e4c55e0800000000000000
-      internalID: -1919573177432809678
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_148
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cb379a0f0c5e36de0800000000000000
-      internalID: -1340975647192157252
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_149
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 309
-        width: 1
-        height: 14
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: adbe760fca0bf5cc0800000000000000
-      internalID: -3720060510370534438
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_150
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 312
-        width: 1
-        height: 8
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4c300748ccb3da960800000000000000
-      internalID: 7614808294534677444
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_151
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e8968458965449990800000000000000
-      internalID: -7380197569843402354
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_152
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 308
-        width: 1
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 812632175006e0840800000000000000
-      internalID: 5192192996894007832
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_153
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bba02ff1bb2965d30800000000000000
-      internalID: 4419881416703216315
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_154
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9f991a5da7f516450800000000000000
-      internalID: 6080245953101666809
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_155
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79b9ed3cfa59ed3d0800000000000000
-      internalID: -3179939704739030121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_156
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45ed33605aa0d3f50800000000000000
-      internalID: 6862653111072448084
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_157
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e9c141acb08dea70800000000000000
-      internalID: 8857877589755283940
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_158
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 307
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aae989828192bd790800000000000000
-      internalID: -7504359170345754966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_159
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 272
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 402f1f3d657a7ec20800000000000000
-      internalID: 3235738848653865476
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_160
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 272
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 239993b6dc454dd20800000000000000
-      internalID: 3302357668013381938
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_161
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 272
-        width: 33
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5290c127e3af90c00800000000000000
-      internalID: 867499549354887461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_162
-      rect:
-        serializedVersion: 2
-        x: 98
-        y: 272
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d857c2cba43044e10800000000000000
-      internalID: 2180871739073656205
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_163
-      rect:
-        serializedVersion: 2
-        x: 131
-        y: 272
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 317ca6b4e8c946480800000000000000
-      internalID: -8906822028067420397
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_164
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 272
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1056c82e9d1135d40800000000000000
-      internalID: 5571816791493862657
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_165
-      rect:
-        serializedVersion: 2
-        x: 197
-        y: 280
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 525f63acd5a361010800000000000000
-      internalID: 1159178128593450277
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_166
-      rect:
-        serializedVersion: 2
-        x: 214
-        y: 272
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a436055de01484f40800000000000000
-      internalID: 5712887659283637066
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_167
-      rect:
-        serializedVersion: 2
-        x: 247
-        y: 272
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fd52bd8cbedd297d0800000000000000
-      internalID: -2913022004198431265
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_168
-      rect:
-        serializedVersion: 2
-        x: 280
-        y: 272
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 63408890b492f91c0800000000000000
-      internalID: -4494828500833270730
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_169
-      rect:
-        serializedVersion: 2
-        x: 313
-        y: 272
-        width: 20
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d44e4f9ec5b0fa40800000000000000
-      internalID: 5400015852257821904
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_170
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 76411c884ccf67370800000000000000
-      internalID: 8320115282651714663
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_171
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d2fc4e6261a30c00800000000000000
-      internalID: 865712997514670802
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_172
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 280
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 792e2e63288f830c0800000000000000
-      internalID: -4595650181581315433
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_173
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 73cebe5a7dc089260800000000000000
-      internalID: 7104442532518161463
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_174
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 289
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5f21ad678638da110800000000000000
-      internalID: 1273818754309559029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_175
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8f8fb173d25492fd0800000000000000
-      internalID: -2366284068706060040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_176
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 289
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 171c1892b20ebdbd0800000000000000
-      internalID: -2604241483519114895
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_177
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 289
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d1751f7bcbd5617d0800000000000000
-      internalID: -2948065840946129123
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_178
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7e1eb1bdc613f00b0800000000000000
-      internalID: -5760331054781308441
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_179
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f9b8655465472d880800000000000000
-      internalID: -8587673625562805345
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_180
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e54d3f1898d57c2c0800000000000000
-      internalID: -4411454464813968290
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_181
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 334b6874e92447630800000000000000
-      internalID: 3923834422918820915
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_182
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 289
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f6dcd91bfdee32af0800000000000000
-      internalID: -422231295517667985
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_183
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82573bc82f9041bb0800000000000000
-      internalID: -4966333551735507672
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_184
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 289
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 10bcc2f8f18d35970800000000000000
-      internalID: 8742568931713927937
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_185
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5df6bfdcaee615140800000000000000
-      internalID: 4706665040336089045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_186
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 289
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5803e6f27f37fc670800000000000000
-      internalID: 8561188922144469125
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_187
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0fae2fea0b23cff40800000000000000
-      internalID: 5763537357558180592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_188
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8da302108aba04220800000000000000
-      internalID: 2468161333860776664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_189
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 910aba096f7a92710800000000000000
-      internalID: 1669049814348439577
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_190
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a39cbab50a20cb3b0800000000000000
-      internalID: -5495514557542840006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_191
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c78ecba5cd07a59d0800000000000000
-      internalID: -2784789327857784708
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_192
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0217ef77d9da78580800000000000000
-      internalID: -8824894052974563040
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_193
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9c61e73e33a143240800000000000000
-      internalID: 4770466715454543561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_194
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 280
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4af261627127f680800000000000000
-      internalID: -8721465378235811253
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_195
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 529c79ec17884a8a0800000000000000
-      internalID: -6294756356778374875
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_196
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: abf3fce3c465441e0800000000000000
-      internalID: -2214550231288168518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_197
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f8bc74d626af0c040800000000000000
-      internalID: 4666004514602994575
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_198
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 167bbbd1d80f2a7b0800000000000000
-      internalID: -5214340929661716639
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_199
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 272
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a88e6c6c8dfba7c0800000000000000
-      internalID: -4058871859587938144
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_200
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 231
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 191725f2edd973eb0800000000000000
-      internalID: -4740146505181924975
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_201
-      rect:
-        serializedVersion: 2
-        x: 33
-        y: 231
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6a46bb278c03874e0800000000000000
-      internalID: -1983781998380227418
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_202
-      rect:
-        serializedVersion: 2
-        x: 66
-        y: 231
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d07c7c38c7c30090800000000000000
-      internalID: -8069386444495621936
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_203
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 231
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d82804d49dbe9660800000000000000
-      internalID: 7394556085099047122
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_204
-      rect:
-        serializedVersion: 2
-        x: 132
-        y: 231
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0787bb0b6fef3f0b0800000000000000
-      internalID: -5695928768213059472
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_205
-      rect:
-        serializedVersion: 2
-        x: 165
-        y: 231
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c1c8735ff7bb4a1e0800000000000000
-      internalID: -2187417360745919460
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_206
-      rect:
-        serializedVersion: 2
-        x: 198
-        y: 231
-        width: 10
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7eec78d54a0c0d0a0800000000000000
-      internalID: -6858770420308914457
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_207
-      rect:
-        serializedVersion: 2
-        x: 207
-        y: 231
-        width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ec725284910014300800000000000000
-      internalID: 234468764184553422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_208
-      rect:
-        serializedVersion: 2
-        x: 222
-        y: 231
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e07bb542c85f0c400800000000000000
-      internalID: 342543553934374670
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_209
-      rect:
-        serializedVersion: 2
-        x: 238
-        y: 231
-        width: 10
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 958fe287d809f52f0800000000000000
-      internalID: -981907256462346151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_210
-      rect:
-        serializedVersion: 2
-        x: 247
-        y: 231
-        width: 17
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6dac2cea7f11fab80800000000000000
-      internalID: -8381460626026607914
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_211
-      rect:
-        serializedVersion: 2
-        x: 263
-        y: 231
-        width: 16
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 23217167dc21dd060800000000000000
-      internalID: 6979755671152955954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_212
-      rect:
-        serializedVersion: 2
-        x: 278
-        y: 231
-        width: 26
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9da1f2b8e8ad2b6c0800000000000000
-      internalID: -4128997602589992231
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_213
-      rect:
-        serializedVersion: 2
-        x: 303
-        y: 223
-        width: 24
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 18dbdf6a2d4430390800000000000000
-      internalID: -7853357653668545151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_214
-      rect:
-        serializedVersion: 2
-        x: 326
-        y: 231
-        width: 7
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d5007fe96c06ca5a0800000000000000
-      internalID: -6508720955270430627
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_215
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aab2d5fca5fb13920800000000000000
-      internalID: 2968364026160819114
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_216
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3439e57482cd28990800000000000000
-      internalID: -7385098373380009149
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_217
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aaf71dc6cfcf94610800000000000000
-      internalID: 1606092903221919658
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_218
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 223
-        width: 1
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c86e24a27a581c200800000000000000
-      internalID: 198586811596072588
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_219
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6f85407b6ae2d41a0800000000000000
-      internalID: -6823746566826469130
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_220
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1705e4c19e33072b0800000000000000
-      internalID: -5588910061271494543
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_221
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 79bd0b52ac4c2fcc0800000000000000
-      internalID: -3678661573113488489
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_222
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b12b5efa3b2532f20800000000000000
-      internalID: 3396649475671175707
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_223
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 215
-        width: 1
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e28b9ee622e6be070800000000000000
-      internalID: 8136718245943687214
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_224
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a215b6077850cd940800000000000000
-      internalID: 5322134938909888810
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_225
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e97eb4f8961ff8890800000000000000
-      internalID: -7453473422596905058
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_226
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eae7d266ab5ab0710800000000000000
-      internalID: 1660603107612917422
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_227
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 154
-        width: 1
-        height: 78
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 440f46057b84d4540800000000000000
-      internalID: 4993727513988755524
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_228
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f741e2315d5e74a0800000000000000
-      internalID: -6593730201096468493
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_229
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d31a7a3bb62e19be0800000000000000
-      internalID: -1472146650969956035
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_230
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 154
-        width: 1
-        height: 78
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4221508bfc4e7e5f0800000000000000
-      internalID: -727361234000342492
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_231
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8dd5f5876d72922f0800000000000000
-      internalID: -997222040389853736
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_232
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ac208144dd27c2c0800000000000000
-      internalID: -4411506920330875738
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_233
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 159
-        width: 1
-        height: 73
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 635db4cee58f78330800000000000000
-      internalID: 3713209504365270326
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_234
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: abf3b92ca79c3ad10800000000000000
-      internalID: 2135772177391894458
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_235
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dca60064a51a12710800000000000000
-      internalID: 1666790746197355213
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_236
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e37f8fea741355d30800000000000000
-      internalID: 4419492793282000702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_237
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f41fb8937d37b950800000000000000
-      internalID: 6464703356806829299
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_238
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 568e05a54b920c530800000000000000
-      internalID: 3873141534124730469
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_239
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f591750b1b8632ec0800000000000000
-      internalID: -3592912965334525601
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_240
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 226
-        width: 1
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 951c7f24d611d1300800000000000000
-      internalID: 224354717411033433
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_241
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 228
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b6088af2dc2c7b750800000000000000
-      internalID: 6320734788561436779
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_242
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 231
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6b0fed75061f79430800000000000000
-      internalID: 3789763007548944566
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_243
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 226
-        width: 1
-        height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c0e5fd9a5bfa98cd0800000000000000
-      internalID: -2555318118782116340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_244
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 157
-        width: 58
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 34d1ffd5d56ad6760800000000000000
-      internalID: 7452795878307208515
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_245
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 157
-        width: 56
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa27f98dbc85e9720800000000000000
-      internalID: 2854816846335406767
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_246
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 157
-        width: 66
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7459d4a28654f1d00800000000000000
-      internalID: 945550760459736391
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_247
-      rect:
-        serializedVersion: 2
-        x: 205
-        y: 191
-        width: 3
-        height: 3
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3ded056542d731400800000000000000
-      internalID: 293715995729649363
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_248
-      rect:
-        serializedVersion: 2
-        x: 242
-        y: 184
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 85bfa025578080440800000000000000
-      internalID: 4902177494373432152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_249
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 184
-        width: 18
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c0376d93bf22b2650800000000000000
-      internalID: 6209094973662851852
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_250
-      rect:
-        serializedVersion: 2
-        x: 276
-        y: 190
-        width: 26
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d3250cfac6017090800000000000000
-      internalID: -8038636390998268972
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_251
-      rect:
-        serializedVersion: 2
-        x: 276
-        y: 157
-        width: 34
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 50f5b83b06c7df270800000000000000
-      internalID: 8285915644202540805
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_252
-      rect:
-        serializedVersion: 2
-        x: 301
-        y: 190
-        width: 26
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fa1f49f1550755490800000000000000
-      internalID: -7758171272171425361
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_253
-      rect:
-        serializedVersion: 2
-        x: 309
-        y: 157
-        width: 24
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bec573109d2be0ce0800000000000000
-      internalID: -1437014585986556693
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_254
-      rect:
-        serializedVersion: 2
-        x: 326
-        y: 190
-        width: 7
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7a7544340a9a053f0800000000000000
-      internalID: -914044218567796825
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_255
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 157
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e2bf812fb3275e300800000000000000
-      internalID: 280756153570884398
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_256
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 190
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 624fe14cf0e488ab0800000000000000
-      internalID: -5005665156200467418
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_257
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 190
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 031deb88f066b9100800000000000000
-      internalID: 115798432332828976
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_258
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 190
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0c8cbc07c4d99120800000000000000
-      internalID: 2421200226065615886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_259
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 190
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 853a514fc9c4cf960800000000000000
-      internalID: 7637063305107186520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_260
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 190
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf26f2ebcd7ebbe40800000000000000
-      internalID: 5673383090872869628
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_261
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 190
-        width: 1
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 9ca095acbe10b5ee0800000000000000
-      internalID: -1271420357578257719
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_262
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 182
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e7f8119b6b2414990800000000000000
-      internalID: -7403562959863967874
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_263
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 182
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 94163f41b079f1050800000000000000
-      internalID: 5773499321164194121
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_264
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 190
-        width: 1
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b3bc41bf4f8068af0800000000000000
-      internalID: -394618069070853317
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_265
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 154
-        width: 1
-        height: 75
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 047fe321939fbe8e0800000000000000
-      internalID: -1662961613868697792
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_266
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 157
-        width: 1
-        height: 71
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ac6950e93bcded1b0800000000000000
-      internalID: -5629819820158118198
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_267
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 185
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 39b5921a971363640800000000000000
-      internalID: 5059285629861976979
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_268
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 180
-        width: 1
-        height: 47
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 66910b920256f91b0800000000000000
-      internalID: -5647684218886547098
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_269
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 182
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1e9266394de666940800000000000000
-      internalID: 5289036671678294497
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_270
-      rect:
-        serializedVersion: 2
-        x: 259
-        y: 157
-        width: 18
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b064536023e5b5c00800000000000000
-      internalID: 890408920281335307
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_271
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 157
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4a9b757e0f5b8c0a0800000000000000
-      internalID: -6861033986020886108
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_272
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 157
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3094f0243acdf1110800000000000000
-      internalID: 1233947416668883203
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_273
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 157
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2d73cec91f8845340800000000000000
-      internalID: 4851653269886089170
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_274
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 149
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 41909eece2d0e6aa0800000000000000
-      internalID: -6165976345132594924
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_275
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 149
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6cfeca94506c5e870800000000000000
-      internalID: 8711586780231299014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_276
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 149
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 062ee9e4f0cc3ca50800000000000000
-      internalID: 6540295449987703392
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_277
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 164
-        width: 1
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 230c15a9cd2afc6a0800000000000000
-      internalID: -6426739074868854734
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_278
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 164
-        width: 1
-        height: 13
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 67df43ee96cec3e60800000000000000
-      internalID: 7943483782486883702
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_279
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 147
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 138333576313614d0800000000000000
-      internalID: -3164287578216908751
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_280
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 147
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e5df6300e56b044e0800000000000000
-      internalID: -1999397719705715362
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_281
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 147
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4b7a788d8d84baeb0800000000000000
-      internalID: -4707588889302816844
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_282
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 131
-        width: 1
-        height: 50
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4d11cec4b77eb7a80800000000000000
-      internalID: -8467920157582552620
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_283
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 80
-        width: 58
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b6bca8d1aa9831b0800000000000000
-      internalID: -5676617310384900425
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_284
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 80
-        width: 56
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: bcee7b6a9061971f0800000000000000
-      internalID: -1046781207679340853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_285
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 80
-        width: 66
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0988920c674883ad0800000000000000
-      internalID: -2722280329180510064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_286
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 80
-        width: 66
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fef78909aa6029280800000000000000
-      internalID: -9038154172539043857
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_287
-      rect:
-        serializedVersion: 2
-        x: 302
-        y: 120
-        width: 31
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82054f28222578fa0800000000000000
-      internalID: -5798575687036809176
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_288
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 120
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 81cee264f45f93e40800000000000000
-      internalID: 5636806129459588120
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_289
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 124
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 828bf4d8c871cc460800000000000000
-      internalID: 7263206191475439656
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_290
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 124
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: be5e19544d68cb470800000000000000
-      internalID: 8411746450279622123
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_291
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 124
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c40f80e5903f2a150800000000000000
-      internalID: 5882531284857188428
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_292
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 124
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 816da7e23b266fd70800000000000000
-      internalID: 9076550620730283544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_293
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 124
-        width: 1
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: db9297b561ba458d0800000000000000
-      internalID: -2858471750961124931
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_294
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 116
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 04795c39355a27310800000000000000
-      internalID: 1401364212445714240
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_295
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 116
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: da836d6cc57bc0370800000000000000
-      internalID: 8290202623183042733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_296
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 124
-        width: 1
-        height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3eba15e42dc1c6320800000000000000
-      internalID: 2552446778394913763
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_297
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 77
-        width: 1
-        height: 75
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47ffe8cc2a082a380800000000000000
-      internalID: -8961458871808884876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_298
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 80
-        width: 1
-        height: 71
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4a595b1aa89ee550800000000000000
-      internalID: 6192054394051713615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_299
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 77
-        width: 1
-        height: 78
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6ad250daaff314040800000000000000
-      internalID: 4630052237790752166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_300
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 77
-        width: 1
-        height: 78
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a94b7e319b2cf2fd0800000000000000
-      internalID: -2364457179187530598
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_301
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 82
-        width: 1
-        height: 73
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a72007cbc48d34a80800000000000000
-      internalID: -8483699448945311110
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_302
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 83
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 991da3b702286d520800000000000000
-      internalID: 2726509700437430681
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_303
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 83
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 752dc76d5830d8620800000000000000
-      internalID: 2777880418521502295
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_304
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 83
-        width: 1
-        height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 06ea5c8dc8802c8b0800000000000000
-      internalID: -5133531224223666592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_305
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 3
-        width: 58
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 80614d717e4e39260800000000000000
-      internalID: 7103272718481757704
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_306
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 3
-        width: 56
-        height: 65
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee9b7f4b377b69ec0800000000000000
-      internalID: -3560456747804542482
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_307
-      rect:
-        serializedVersion: 2
-        x: 112
-        y: 3
-        width: 66
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 44b79827a440a7bd0800000000000000
-      internalID: -2631786314448929980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_308
-      rect:
-        serializedVersion: 2
-        x: 177
-        y: 3
-        width: 66
-        height: 66
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d24e39caa494f64e0800000000000000
-      internalID: -1986288325575318483
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_309
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a0c5a51b8f9ee7be0800000000000000
-      internalID: -1477486373394293750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_310
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ddc02b7042bfa7ad0800000000000000
-      internalID: -2703572494116057891
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_311
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 99c218eab32587790800000000000000
-      internalID: -7532179960492905319
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_312
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6c546ff7612332ef0800000000000000
-      internalID: -134208491673467450
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_313
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ead6c544045b4bc90800000000000000
-      internalID: -7154894620355433042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_314
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a16eefab4d1e82600800000000000000
-      internalID: 443852867082577434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_315
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 725da1a28f5723db0800000000000000
-      internalID: -4813655342986898137
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_316
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5775d0a1f74dba220800000000000000
-      internalID: 2498324060670089077
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_317
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 506d932c13cfbfd40800000000000000
-      internalID: 5619362250716993029
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_318
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d804218e6d8bb3600800000000000000
-      internalID: 449155821009518733
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_319
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 29e55104474505f00800000000000000
-      internalID: 1103474766973853330
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_320
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 276b948d888e87eb0800000000000000
-      internalID: -4721768534856059278
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_321
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 29ca0be229d8e7d20800000000000000
-      internalID: 3278213237760371858
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_322
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 09e991a0ff2915590800000000000000
-      internalID: -7687201464860959088
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_323
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8526a34632cf9f900800000000000000
-      internalID: 718882844477907544
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_324
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a7f86b28b27fe53d0800000000000000
-      internalID: -3215861317647298694
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_325
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 93e64838ce99cf2c0800000000000000
-      internalID: -4396469895122620871
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_326
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e4b29cf11c7de3e80800000000000000
-      internalID: -8196877047305786546
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_327
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 621cf5d4e5bd2d9c0800000000000000
-      internalID: -3903816728905268954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_328
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 61fb2b636ed94fea0800000000000000
-      internalID: -5839869204706967786
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_329
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 62
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0d685524f510069a0800000000000000
-      internalID: -6241987574889085232
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_330
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3f9faa7c10f439670800000000000000
-      internalID: 8544259787115395571
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_331
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 54
-        width: 1
-        height: 9
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 16b7d507c4a370530800000000000000
-      internalID: 3821086908824255329
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_332
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 0
-        width: 1
-        height: 75
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 7b98e115ab7dabcf0800000000000000
-      internalID: -235638835258685001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_333
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 3
-        width: 1
-        height: 71
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1626eec4a29caf4e0800000000000000
-      internalID: -1947022705367817631
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_334
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 0
-        width: 1
-        height: 78
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4e9f012087ec6f690800000000000000
-      internalID: -7568635108923475484
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_335
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 0
-        width: 1
-        height: 78
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c54ea5e7f8db868e0800000000000000
-      internalID: -1699900435334503332
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_336
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 5
-        width: 1
-        height: 73
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a85841cd3e1a22ce0800000000000000
-      internalID: -1431403731528415862
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_337
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 37
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8a66d94e10a2698f0800000000000000
-      internalID: -534193318177970520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_338
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 0
-        width: 1
-        height: 38
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2b76658330e808d20800000000000000
-      internalID: 3278776673206953906
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_339
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 37
-        width: 1
-        height: 18
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 351312e756e663470800000000000000
-      internalID: 8374001939328872787
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Contra_enemies_340
-      rect:
-        serializedVersion: 2
-        x: 332
-        y: 0
-        width: 1
-        height: 38
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 304e906b18f5d2a20800000000000000
-      internalID: 3039190334254474243
       vertices: []
       indices: 
       edges: []
@@ -8646,7 +3762,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Contra_enemies_0: 7744305201448557794
       Contra_enemies_1: -4460487481195292085
@@ -8671,253 +3789,31 @@ TextureImporter:
       Contra_enemies_116: -1669447625631337529
       Contra_enemies_117: -2203695309114290354
       Contra_enemies_118: -7012259501785763598
-      Contra_enemies_119: 978218744271411684
       Contra_enemies_12: -5817858042987211321
-      Contra_enemies_120: 5535554932093823488
-      Contra_enemies_121: -3325584637540601344
-      Contra_enemies_122: 2379346259228275429
-      Contra_enemies_123: -3309428137649222623
-      Contra_enemies_124: 498969927225649431
-      Contra_enemies_125: -7732358745998642505
-      Contra_enemies_126: -4498558079634928509
-      Contra_enemies_127: 5238471244553997289
-      Contra_enemies_128: 5427569653351806372
-      Contra_enemies_129: 8827368357753878285
       Contra_enemies_13: 7247255349419167781
-      Contra_enemies_130: 5262288149499598068
-      Contra_enemies_131: -9131367188157736508
-      Contra_enemies_132: 6720619777611307678
-      Contra_enemies_133: 6353975156168005537
-      Contra_enemies_134: 5634860110184581273
-      Contra_enemies_135: 8924607051615312130
-      Contra_enemies_136: 4353507850100824059
-      Contra_enemies_137: -2215777830064274140
-      Contra_enemies_138: -7363907280816421616
-      Contra_enemies_139: -5818694758650831760
       Contra_enemies_14: 6316992249273220025
-      Contra_enemies_140: -5067933170204277318
-      Contra_enemies_141: -7316103481665577752
-      Contra_enemies_142: 4381865999889986845
-      Contra_enemies_143: -2726573331925996050
-      Contra_enemies_144: 5775339147833959555
-      Contra_enemies_145: 6872549623701403998
-      Contra_enemies_146: 232486634475935549
-      Contra_enemies_147: -1919573177432809678
-      Contra_enemies_148: -1340975647192157252
-      Contra_enemies_149: -3720060510370534438
       Contra_enemies_15: -5887201706394497463
-      Contra_enemies_150: 7614808294534677444
-      Contra_enemies_151: -7380197569843402354
-      Contra_enemies_152: 5192192996894007832
-      Contra_enemies_153: 4419881416703216315
-      Contra_enemies_154: 6080245953101666809
-      Contra_enemies_155: -3179939704739030121
-      Contra_enemies_156: 6862653111072448084
-      Contra_enemies_157: 8857877589755283940
-      Contra_enemies_158: -7504359170345754966
-      Contra_enemies_159: 3235738848653865476
       Contra_enemies_16: -7477868693498016814
-      Contra_enemies_160: 3302357668013381938
-      Contra_enemies_161: 867499549354887461
-      Contra_enemies_162: 2180871739073656205
-      Contra_enemies_163: -8906822028067420397
-      Contra_enemies_164: 5571816791493862657
-      Contra_enemies_165: 1159178128593450277
-      Contra_enemies_166: 5712887659283637066
-      Contra_enemies_167: -2913022004198431265
-      Contra_enemies_168: -4494828500833270730
-      Contra_enemies_169: 5400015852257821904
       Contra_enemies_17: -6838195581596394870
-      Contra_enemies_170: 8320115282651714663
-      Contra_enemies_171: 865712997514670802
-      Contra_enemies_172: -4595650181581315433
-      Contra_enemies_173: 7104442532518161463
-      Contra_enemies_174: 1273818754309559029
-      Contra_enemies_175: -2366284068706060040
-      Contra_enemies_176: -2604241483519114895
-      Contra_enemies_177: -2948065840946129123
-      Contra_enemies_178: -5760331054781308441
-      Contra_enemies_179: -8587673625562805345
       Contra_enemies_18: -5546058579746215754
-      Contra_enemies_180: -4411454464813968290
-      Contra_enemies_181: 3923834422918820915
-      Contra_enemies_182: -422231295517667985
-      Contra_enemies_183: -4966333551735507672
-      Contra_enemies_184: 8742568931713927937
-      Contra_enemies_185: 4706665040336089045
-      Contra_enemies_186: 8561188922144469125
-      Contra_enemies_187: 5763537357558180592
-      Contra_enemies_188: 2468161333860776664
-      Contra_enemies_189: 1669049814348439577
       Contra_enemies_19: 1407004125804459124
-      Contra_enemies_190: -5495514557542840006
-      Contra_enemies_191: -2784789327857784708
-      Contra_enemies_192: -8824894052974563040
-      Contra_enemies_193: 4770466715454543561
-      Contra_enemies_194: -8721465378235811253
-      Contra_enemies_195: -6294756356778374875
-      Contra_enemies_196: -2214550231288168518
-      Contra_enemies_197: 4666004514602994575
-      Contra_enemies_198: -5214340929661716639
-      Contra_enemies_199: -4058871859587938144
       Contra_enemies_2: -8457538965618725562
       Contra_enemies_20: 442394466719191490
-      Contra_enemies_200: -4740146505181924975
-      Contra_enemies_201: -1983781998380227418
-      Contra_enemies_202: -8069386444495621936
-      Contra_enemies_203: 7394556085099047122
-      Contra_enemies_204: -5695928768213059472
-      Contra_enemies_205: -2187417360745919460
-      Contra_enemies_206: -6858770420308914457
-      Contra_enemies_207: 234468764184553422
-      Contra_enemies_208: 342543553934374670
-      Contra_enemies_209: -981907256462346151
       Contra_enemies_21: -6637751763654452800
-      Contra_enemies_210: -8381460626026607914
-      Contra_enemies_211: 6979755671152955954
-      Contra_enemies_212: -4128997602589992231
-      Contra_enemies_213: -7853357653668545151
-      Contra_enemies_214: -6508720955270430627
-      Contra_enemies_215: 2968364026160819114
-      Contra_enemies_216: -7385098373380009149
-      Contra_enemies_217: 1606092903221919658
-      Contra_enemies_218: 198586811596072588
-      Contra_enemies_219: -6823746566826469130
       Contra_enemies_22: -8551949991304613511
-      Contra_enemies_220: -5588910061271494543
-      Contra_enemies_221: -3678661573113488489
-      Contra_enemies_222: 3396649475671175707
-      Contra_enemies_223: 8136718245943687214
-      Contra_enemies_224: 5322134938909888810
-      Contra_enemies_225: -7453473422596905058
-      Contra_enemies_226: 1660603107612917422
-      Contra_enemies_227: 4993727513988755524
-      Contra_enemies_228: -6593730201096468493
-      Contra_enemies_229: -1472146650969956035
       Contra_enemies_23: -8672290140752252419
-      Contra_enemies_230: -727361234000342492
-      Contra_enemies_231: -997222040389853736
-      Contra_enemies_232: -4411506920330875738
-      Contra_enemies_233: 3713209504365270326
-      Contra_enemies_234: 2135772177391894458
-      Contra_enemies_235: 1666790746197355213
-      Contra_enemies_236: 4419492793282000702
-      Contra_enemies_237: 6464703356806829299
-      Contra_enemies_238: 3873141534124730469
-      Contra_enemies_239: -3592912965334525601
       Contra_enemies_24: -960444629486472259
-      Contra_enemies_240: 224354717411033433
-      Contra_enemies_241: 6320734788561436779
-      Contra_enemies_242: 3789763007548944566
-      Contra_enemies_243: -2555318118782116340
-      Contra_enemies_244: 7452795878307208515
-      Contra_enemies_245: 2854816846335406767
-      Contra_enemies_246: 945550760459736391
-      Contra_enemies_247: 293715995729649363
-      Contra_enemies_248: 4902177494373432152
-      Contra_enemies_249: 6209094973662851852
       Contra_enemies_25: -5355575402381227272
-      Contra_enemies_250: -8038636390998268972
-      Contra_enemies_251: 8285915644202540805
-      Contra_enemies_252: -7758171272171425361
-      Contra_enemies_253: -1437014585986556693
-      Contra_enemies_254: -914044218567796825
-      Contra_enemies_255: 280756153570884398
-      Contra_enemies_256: -5005665156200467418
-      Contra_enemies_257: 115798432332828976
-      Contra_enemies_258: 2421200226065615886
-      Contra_enemies_259: 7637063305107186520
       Contra_enemies_26: 3651731350183092410
-      Contra_enemies_260: 5673383090872869628
-      Contra_enemies_261: -1271420357578257719
-      Contra_enemies_262: -7403562959863967874
-      Contra_enemies_263: 5773499321164194121
-      Contra_enemies_264: -394618069070853317
-      Contra_enemies_265: -1662961613868697792
-      Contra_enemies_266: -5629819820158118198
-      Contra_enemies_267: 5059285629861976979
-      Contra_enemies_268: -5647684218886547098
-      Contra_enemies_269: 5289036671678294497
       Contra_enemies_27: 7073259051527029835
-      Contra_enemies_270: 890408920281335307
-      Contra_enemies_271: -6861033986020886108
-      Contra_enemies_272: 1233947416668883203
-      Contra_enemies_273: 4851653269886089170
-      Contra_enemies_274: -6165976345132594924
-      Contra_enemies_275: 8711586780231299014
-      Contra_enemies_276: 6540295449987703392
-      Contra_enemies_277: -6426739074868854734
-      Contra_enemies_278: 7943483782486883702
-      Contra_enemies_279: -3164287578216908751
       Contra_enemies_28: 5439978827561546313
-      Contra_enemies_280: -1999397719705715362
-      Contra_enemies_281: -4707588889302816844
-      Contra_enemies_282: -8467920157582552620
-      Contra_enemies_283: -5676617310384900425
-      Contra_enemies_284: -1046781207679340853
-      Contra_enemies_285: -2722280329180510064
-      Contra_enemies_286: -9038154172539043857
-      Contra_enemies_287: -5798575687036809176
-      Contra_enemies_288: 5636806129459588120
-      Contra_enemies_289: 7263206191475439656
       Contra_enemies_29: 3959596836044953776
-      Contra_enemies_290: 8411746450279622123
-      Contra_enemies_291: 5882531284857188428
-      Contra_enemies_292: 9076550620730283544
-      Contra_enemies_293: -2858471750961124931
-      Contra_enemies_294: 1401364212445714240
-      Contra_enemies_295: 8290202623183042733
-      Contra_enemies_296: 2552446778394913763
-      Contra_enemies_297: -8961458871808884876
-      Contra_enemies_298: 6192054394051713615
-      Contra_enemies_299: 4630052237790752166
       Contra_enemies_3: 9076758606079650605
       Contra_enemies_30: -643596426594307280
-      Contra_enemies_300: -2364457179187530598
-      Contra_enemies_301: -8483699448945311110
-      Contra_enemies_302: 2726509700437430681
-      Contra_enemies_303: 2777880418521502295
-      Contra_enemies_304: -5133531224223666592
-      Contra_enemies_305: 7103272718481757704
-      Contra_enemies_306: -3560456747804542482
-      Contra_enemies_307: -2631786314448929980
-      Contra_enemies_308: -1986288325575318483
-      Contra_enemies_309: -1477486373394293750
       Contra_enemies_31: -5844283451000478099
-      Contra_enemies_310: -2703572494116057891
-      Contra_enemies_311: -7532179960492905319
-      Contra_enemies_312: -134208491673467450
-      Contra_enemies_313: -7154894620355433042
-      Contra_enemies_314: 443852867082577434
-      Contra_enemies_315: -4813655342986898137
-      Contra_enemies_316: 2498324060670089077
-      Contra_enemies_317: 5619362250716993029
-      Contra_enemies_318: 449155821009518733
-      Contra_enemies_319: 1103474766973853330
       Contra_enemies_32: -4643380544794120798
-      Contra_enemies_320: -4721768534856059278
-      Contra_enemies_321: 3278213237760371858
-      Contra_enemies_322: -7687201464860959088
-      Contra_enemies_323: 718882844477907544
-      Contra_enemies_324: -3215861317647298694
-      Contra_enemies_325: -4396469895122620871
-      Contra_enemies_326: -8196877047305786546
-      Contra_enemies_327: -3903816728905268954
-      Contra_enemies_328: -5839869204706967786
-      Contra_enemies_329: -6241987574889085232
       Contra_enemies_33: -469223789275431039
-      Contra_enemies_330: 8544259787115395571
-      Contra_enemies_331: 3821086908824255329
-      Contra_enemies_332: -235638835258685001
-      Contra_enemies_333: -1947022705367817631
-      Contra_enemies_334: -7568635108923475484
-      Contra_enemies_335: -1699900435334503332
-      Contra_enemies_336: -1431403731528415862
-      Contra_enemies_337: -534193318177970520
-      Contra_enemies_338: 3278776673206953906
-      Contra_enemies_339: 8374001939328872787
       Contra_enemies_34: 9130620149544839833
-      Contra_enemies_340: 3039190334254474243
       Contra_enemies_35: -8154576397233814009
       Contra_enemies_36: 8565134008898781660
       Contra_enemies_37: 315337925425651905
