@@ -17,9 +17,9 @@ public class CharacterMovement : MonoBehaviour
     float playerSpeed;
 
     // These variables are to hold the Action references
+
     InputAction moveAction;
     InputAction jumpAction;
-
     public int jumpHeight;
 
     bool isGrounded()
@@ -33,7 +33,6 @@ public class CharacterMovement : MonoBehaviour
         playerSpeed = 9.0f;
         jumpHeight = 12;
 
-        // Find the references to the "Move" and "Jump" actions
         moveAction = InputSystem.actions.FindAction("Move");
         jumpAction = InputSystem.actions.FindAction("Jump");
     }

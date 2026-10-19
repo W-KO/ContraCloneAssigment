@@ -1,11 +1,13 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class BulletSpawner : MonoBehaviour
+public class Spawner : MonoBehaviour
 {
 
+    //Spawner spawner;
+
     public GameObject prefabToSpawn;
-    public InputAction attackAction;
+    public bool isSpawning;
     float timeSinceLastSpawn = 0.0f;
     public float timeBetweenSpawns = 3.0f;
     
@@ -13,15 +15,15 @@ public class BulletSpawner : MonoBehaviour
 
     void Start()
     {
-        attackAction = InputSystem.actions.FindAction("Attack");
+        
     }
 
     // Update is called once per frame
     void Update()
     {
-        if (attackAction.IsPressed() && timeSinceLastSpawn > timeBetweenSpawns)
+        if (isSpawning && timeSinceLastSpawn > timeBetweenSpawns)
         {
-            Instantiate(prefabToSpawn, transform.position, Quaternion.identity);
+            Instantiate(prefabToSpawn, transform.position, transform.rotation);
             timeSinceLastSpawn = 0.0f;
         }
 

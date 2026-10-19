@@ -2479,9 +2479,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 205
-        y: 190
-        width: 15
-        height: 5
+        y: 191
+        width: 3
+        height: 3
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -3750,6 +3750,28 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Contra_enemies_119
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 86
+        width: 12
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2803645526552c745a3d8ef2ba9c9543
+      internalID: 926255154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -3789,6 +3811,7 @@ TextureImporter:
       Contra_enemies_116: -1669447625631337529
       Contra_enemies_117: -2203695309114290354
       Contra_enemies_118: -7012259501785763598
+      Contra_enemies_119: 926255154
       Contra_enemies_12: -5817858042987211321
       Contra_enemies_13: 7247255349419167781
       Contra_enemies_14: 6316992249273220025
