@@ -124,24 +124,6 @@ TilemapCollider2D:
   m_CorrespondingSourceObject: {fileID: 5031859294540165598, guid: 972b26c50b4b7c945b2fe151939b2c17, type: 3}
   m_PrefabInstance: {fileID: 2558205579457102238}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &834431306 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 5938225230996059184, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-  m_PrefabInstance: {fileID: 1150598040460006895}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &834431311
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 834431306}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dcb289490da92d540b29a419e3d2ed28, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: '::'
-  speed: 0
 --- !u!4 &1717337775 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2072512033612142138, guid: 5e6e563b0b4ccb643910d1572121f6c2, type: 3}
@@ -272,70 +254,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a85245e383bad4a4ea41de93a3212c94, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
---- !u!1001 &1150598040460006895
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 94806846773118474, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_GravityScale
-      value: 0.02
-      objectReference: {fileID: 0}
-    - target: {fileID: 286838350741323272, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -5.09
-      objectReference: {fileID: 0}
-    - target: {fileID: 286838350741323272, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0.81
-      objectReference: {fileID: 0}
-    - target: {fileID: 286838350741323272, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 286838350741323272, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 286838350741323272, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 286838350741323272, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 286838350741323272, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 286838350741323272, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 286838350741323272, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 286838350741323272, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5938225230996059184, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      propertyPath: m_Name
-      value: Bullet
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 5938225230996059184, guid: d39a26122738bf3498b90bea164effd2, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 834431311}
-  m_SourcePrefab: {fileID: 100100000, guid: d39a26122738bf3498b90bea164effd2, type: 3}
 --- !u!1001 &2558205579457102238
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4191,5 +4109,4 @@ SceneRoots:
   m_Roots:
   - {fileID: 2558205579457102238}
   - {fileID: 5331155226977523756}
-  - {fileID: 1150598040460006895}
   - {fileID: 1768514810}
