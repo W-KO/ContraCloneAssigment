@@ -86,7 +86,7 @@ SpriteRenderer:
   m_MaskInteraction: 0
   m_Sprite: {fileID: -5817858042987211321, guid: 2428ace09ea2d7f499e7a23229d1dbc0, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_FlipX: 1
+  m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
   m_Size: {x: 0.9375, y: 2}
@@ -120,7 +120,7 @@ Rigidbody2D:
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
-  m_Constraints: 0
+  m_Constraints: 4
 --- !u!70 &119614523825854522
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -168,11 +168,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 642794022052743992, guid: 64c145c625e47d54fb8353a3b24990ff, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.3675206
+      value: 0.478
       objectReference: {fileID: 0}
     - target: {fileID: 642794022052743992, guid: 64c145c625e47d54fb8353a3b24990ff, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.8893987
+      value: 0.4
       objectReference: {fileID: 0}
     - target: {fileID: 642794022052743992, guid: 64c145c625e47d54fb8353a3b24990ff, type: 3}
       propertyPath: m_LocalPosition.z
@@ -206,6 +206,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5403936945698336393, guid: 64c145c625e47d54fb8353a3b24990ff, type: 3}
+      propertyPath: isSpawning
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5403936945698336393, guid: 64c145c625e47d54fb8353a3b24990ff, type: 3}
+      propertyPath: prefabToSpawn
+      value: 
+      objectReference: {fileID: 5938225230996059184, guid: d39a26122738bf3498b90bea164effd2, type: 3}
     - target: {fileID: 8136809540355223189, guid: 64c145c625e47d54fb8353a3b24990ff, type: 3}
       propertyPath: m_Name
       value: Spawner
