@@ -1,6 +1,7 @@
 using UnityEditor.Timeline.Actions;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.Tilemaps;
 
 
 // Aiming, Shooting
@@ -13,8 +14,13 @@ using UnityEngine.InputSystem;
 public class PlayerCharacterController : MonoBehaviour
 {
 
+    public BoxCollider2D groundcheck;
+    bool isOnGround = false;
+
     public Spawner spawner;
     InputAction attackAction;
+
+    public CharacterMovement movescript;
 
     InputAction moveAction;
     InputAction jumpAction;
@@ -34,7 +40,17 @@ public class PlayerCharacterController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
+        
+
         spawner.isSpawning = attackAction.IsPressed();
+
+        movescript.moveValue = moveAction.ReadValue<Vector2>();
+
+        if (isOnGround && jumpAction.IsPressed())
+        {
+            movescript.jump();
+        }
 
         // use move actions to aim
         Vector2 lookValue = lookAction.ReadValue<Vector2>();
@@ -42,4 +58,21 @@ public class PlayerCharacterController : MonoBehaviour
         Debug.DrawRay(spawner.transform.position, lookValue);
     
     }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.GetComponent<Tilemap>())
+        {
+            isOnGround = true;
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.GetComponent<Tilemap>()) 
+        {
+            isOnGround = false;
+        }
+    }
+
 }

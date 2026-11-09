@@ -9,57 +9,46 @@ public class CharacterMovement : MonoBehaviour
 
     Rigidbody2D rb;
 
-
-    public BoxCollider2D groundcheck;
-    public TilemapCollider2D tiles;
-
     bool isOnGround;
-    float playerSpeed;
+    public float speed;
 
     // These variables are to hold the Action references
 
-    InputAction moveAction;
-    InputAction jumpAction;
+    public Vector2 moveValue;
+    bool jumpRequested;
     public int jumpHeight;
-
-    bool isGrounded()
-    {
-        return Physics.Raycast(transform.position, -Vector3.up, 0.1f);
-    }
+    
 
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        playerSpeed = 9.0f;
+        speed = 9.0f;
         jumpHeight = 12;
-
-        moveAction = InputSystem.actions.FindAction("Move");
-        jumpAction = InputSystem.actions.FindAction("Jump");
     }
 
     void Update()
     {
         // Read the "Move" action value, which is a 2D vector
-        Vector2 moveValue = moveAction.ReadValue<Vector2>() * playerSpeed;
+        //Vector2 moveValue = moveAction.ReadValue<Vector2>() * playerSpeed;
 
         // ground check using small collision box (no wall jumping) 
-        if (groundcheck.IsTouching(tiles))
-        {
-            isOnGround = true;
-        } else
-        {
-            isOnGround = false;
-        }
+        
 
-        if (jumpAction.WasPressedThisFrame() && isOnGround)
+        if (jumpRequested)
         {
             // Debug.Log("Hi");
-            rb.linearVelocityY = jumpHeight;
+            jump();
             
         }
 
         // your movement code here
-        rb.linearVelocityX = moveValue.x;
+        rb.linearVelocityX = (moveValue.x * speed);
     }
+
+
+    public void jump() {
+        rb.linearVelocityY = jumpHeight;
+    }
+
 }
 

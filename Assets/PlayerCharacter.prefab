@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2072512033612142138}
   - component: {fileID: 5875539169074878047}
+  - component: {fileID: 1038432130710699045}
   - component: {fileID: 614789455600284077}
   - component: {fileID: 3018353958614174563}
   - component: {fileID: 4325822043547754127}
@@ -96,6 +97,20 @@ SpriteRenderer:
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
+--- !u!114 &1038432130710699045
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2433807089628158490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3cd4bfa0fe3ddb240a3ac8bc0e28793d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Damagable
+  HP: 3
+  MAXHP: 3
 --- !u!114 &614789455600284077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -108,8 +123,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 502ab14d58eea7b49a5ccc1b2cff7cdd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  groundcheck: {fileID: 621713555324246987}
-  tiles: {fileID: 0}
+  speed: 0
+  moveValue: {x: 0, y: 0}
   jumpHeight: 0
 --- !u!70 &3018353958614174563
 CapsuleCollider2D:
